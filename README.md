@@ -2,6 +2,8 @@
 
 面向家庭使用的英语词汇跟读与默写网页。生产环境由 GitHub Pages 提供静态文件；学习记录和自定义词库只保存在当前浏览器，不上传到 GitHub，也不自动跨设备同步。
 
+在线访问：[https://patrickdexter1202-coder.github.io/dawn-vocabulary-path/](https://patrickdexter1202-coder.github.io/dawn-vocabulary-path/)
+
 ## 当前能力
 
 - 内置小学基准、六年级上册 Unit 1 与衔接混合词库；
