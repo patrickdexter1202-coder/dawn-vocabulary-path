@@ -21,7 +21,7 @@ GitHub 仓库保存源码，GitHub Actions 运行测试与 Vite 构建，GitHub 
 
 - GitHub：源码、内置词库和构建产物；
 - `localStorage`：当前浏览器的学习记录；
-- IndexedDB：规划中的自定义词库；
+- IndexedDB：已实现的当前浏览器自定义词库；
 - JSON 文件：由家长主动导出的完整备份；
 - 有道：点击播放时请求单词音频，不接收学习记录。
 

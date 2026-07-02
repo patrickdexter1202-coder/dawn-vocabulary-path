@@ -1,6 +1,6 @@
 # 上海六年级英语学习系统 Spec
 
-> 历史版本：当前完整规格请以 `english-learning-system-spec-v0.7.md` 为准。
+> 历史版本：当前完整规格请以 `english-learning-system-spec-v0.8.md` 为准。
 
 > 版本：V0.1（方案草案）  
 > 日期：2026-06-29  

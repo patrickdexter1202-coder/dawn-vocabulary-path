@@ -1,0 +1,23 @@
+{
+  "entries": [
+    {
+      "word": "apple",
+      "meaning": "苹果",
+      "answer": "apple",
+      "phonetic": "/ˈæpəl/",
+      "example": "I eat an apple.",
+      "unit": "Unit 1",
+      "source": "家庭整理",
+      "tags": ["水果", "基础"]
+    },
+    {
+      "word": "take off",
+      "meaning": "脱下；起飞",
+      "answer": "take off",
+      "example": "Please take off your coat.",
+      "unit": "Unit 2",
+      "source": "教材摘录",
+      "tags": ["短语"]
+    }
+  ]
+}

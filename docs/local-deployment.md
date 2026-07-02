@@ -2,23 +2,25 @@
 
 更新日期：2026-07-02
 
-> 当前功能与规划请以 `english-learning-system-spec-v0.7.md` 和 `implementation-plan-v0.7.md` 为准。本文件保留开发机和既有 Windows 迁移说明；当前新增发布目标为 GitHub Pages 在线网页。
+> 当前功能与状态请以 `english-learning-system-spec-v0.8.md` 和 `implementation-plan-v0.8.md` 为准。本文件保留开发机和既有 Windows 迁移说明；当前主要发布目标为 GitHub Pages 在线网页。
 
 ## 当前发布目标
 
 - GitHub Pages 提供公开 HTTPS 网页；
 - 不使用账号、云数据库或自动同步；
 - 学习记录保存在访问设备当前浏览器的 `localStorage`；
-- 自定义词库规划保存于 IndexedDB；
+- 自定义词库已保存于 IndexedDB；
 - iPhone 使用 Safari 直接访问同一 HTML 页面，不安装原生 App；
-- 换设备或换浏览器不会带出数据，需使用规划中的 JSON 备份与恢复。
+- 换设备或换浏览器不会带出数据，需使用已实现的完整 JSON 备份与恢复。
 
 ## 本机项目
 
 - 源码目录：`app/`；技术栈为 React 19 + Vite。
-- 开发命令：`npm run dev`；生产构建：`npm run build`；测试：`npm test`。
-- 当前验证基线：3 个测试文件、26 项测试，生产构建成功。
-- 当前词库随 JavaScript 构建产物发布；学习记录位于浏览器 `localStorage`。
+- 包管理器：pnpm；开发命令：`pnpm dev`；生产构建：`pnpm build`；测试：`pnpm test`。
+- GitHub Pages 构建：设置 `VITE_BASE_PATH` 后执行 `pnpm build:pages`；Actions 根据仓库名自动设置子路径。
+- 当前验证基线：4 个测试文件、33 项测试，生产构建与 Pages 路径断言成功。
+- 默认词库随 JavaScript 构建产物发布：混合 542、小学 498、六上 Unit 1 共 44。
+- 学习记录位于 `localStorage`；自定义词库位于 IndexedDB；完整备份为下载到用户设备的 JSON。
 
 ## 朗读依赖
 
@@ -39,9 +41,11 @@
 
 ## 数据说明
 
-学习记录在浏览器 localStorage 中。网页运行包可以直接复制，但旧电脑记录不会随文件夹复制；清除浏览器站点数据也会清空记录。短期试运行请固定电脑和浏览器，长期使用前应增加记录导出/导入。
+学习记录在浏览器 localStorage 中，自定义词库在 IndexedDB 中。网页运行包可以直接复制，但旧电脑记录不会随文件夹复制；清除浏览器站点数据也会清空两类本地数据。换设备或清理前应从“本地词库与备份”导出完整备份。
 
 当前学习数据使用 `dawn-vocabulary-progress-v2`，包含多次会话时间、逐次作答、错误单词明细和已清除错词标记；首次打开新版会自动迁移 v1 数据，并兼容旧 v2 数据。
+
+自定义词库数据库为 `dawn-vocabulary-local-v1`；导入格式见 `vocabulary-import-format-v1.md`。普通 JSON 词库导入与完整备份恢复是两个不同入口。
 
 学习记录与错词清单的单项删除需要家长密码 `99bill`。此密码用于家庭本地防误删，不是联网账号或高强度安全认证。
 

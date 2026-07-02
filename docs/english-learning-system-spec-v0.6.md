@@ -1,6 +1,6 @@
 # 晨光词径产品规格 v0.6
 
-> 历史版本：当前完整规格请以 `english-learning-system-spec-v0.7.md` 为准。v0.7 已暂缓原生 iOS 与多终端方向，收敛为 GitHub Pages + 浏览器本地数据。
+> 历史版本：当前完整规格请以 `english-learning-system-spec-v0.8.md` 为准。v0.7 暂缓原生 iOS 与多终端方向，v0.8 已上线 GitHub Pages + 浏览器本地数据。
 
 更新日期：2026-07-02  
 适用阶段：上海五四学制，2026 年秋季升六年级，本机短期试运行

@@ -1,6 +1,6 @@
 # 晨光词径 Web V0.1 实施计划
 
-> 历史版本：当前计划请以 `implementation-plan-v0.7.md` 为准。
+> 历史版本：当前状态请以 `implementation-plan-v0.8.md` 为准。
 
 ## 目标
 

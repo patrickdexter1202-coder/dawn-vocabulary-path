@@ -14,6 +14,10 @@
 - GitHub Actions 自动测试、构建并发布 GitHub Pages；
 - 桌面、平板与 iPhone Safari 响应式布局。
 
+线上版本自带三套只读词库：默认“衔接混合”542 条、“小学基准”498 条、“六年级新词”44 条，无需导入即可开始学习。
+
+自定义词库必须至少包含 `word` 和 `meaning`。完整字段、限制及 CSV/JSON 模板见 [词库导入格式 v1](docs/vocabulary-import-format-v1.md)。
+
 ## 本地开发
 
 ```bash
@@ -33,4 +37,4 @@ VITE_BASE_PATH=/dawn-vocabulary-path/ pnpm build:pages
 
 同一个网址在不同电脑、手机或浏览器中拥有不同的本地数据。换设备、换浏览器、使用无痕模式或清除网站数据前，请从“陆梵 → 本地词库与备份”导出完整备份。
 
-详细规格与部署说明见 [docs/README.md](docs/README.md)。
+详细规格与部署说明见 [docs/README.md](docs/README.md)，当前有效规格为 v0.8。

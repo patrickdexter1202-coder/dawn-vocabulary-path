@@ -15,8 +15,10 @@ When implementing from a selected generated mock, treat that image as the source
 - The current pilot contains 498 primary-baseline records and 44 deduplicated Grade 6 Unit 1 study entries.
 - Each word follows `跟读 → 看中文默写 → 结果`; wrong answers enter a deduplicated local consolidation list.
 - Pilot progress is local-only under `dawn-vocabulary-progress-v2`, with automatic migration from v1; do not imply cloud sync or cross-device migration.
-- Future custom vocabulary should use IndexedDB with stable word IDs, transactional import, archive semantics, and JSON backup/restore; do not store growing libraries as one localStorage JSON blob.
+- Custom vocabulary uses IndexedDB with stable word IDs, transactional import, archive semantics, and JSON backup/restore; do not store growing libraries as one localStorage JSON blob.
+- The implemented vocabulary import contract is `docs/vocabulary-import-format-v1.md`: `word` and `meaning` are required; currently persisted optional fields are `answer`, `phonetic`, `example`, `unit`, `source`, and `tags`.
 - Current deployment scope is a public GitHub Pages site with no accounts, backend, cloud database, or cross-device synchronization. Learning records and custom libraries stay in the current browser.
+- Production URL is `https://patrickdexter1202-coder.github.io/dawn-vocabulary-path/`; repository is public and deploys from `main` through `.github/workflows/deploy-pages.yml`.
 - iPhone support means responsive Safari access to the HTML page, not an IPA, Capacitor wrapper, or SwiftUI app. Preserve the existing 920px/680px/390px responsive breakpoints and require real-device Safari QA before claiming full iPhone support.
 - Keep the existing Dawn Vocabulary Path visual system and responsive layouts when extending functionality.
 - A study run is an explicit session: select a library, start, learn, then finish. Store each session's start/end time and attempts under `dawn-vocabulary-progress-v2`.
