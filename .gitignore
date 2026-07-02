@@ -1,0 +1,12 @@
+app/node_modules/
+app/dist/
+node_modules/
+dist/
+.env
+.env.*
+.vercel/
+coverage/
+*.log
+tmp/
+outputs/
+scripts/__pycache__/
