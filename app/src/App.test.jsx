@@ -79,6 +79,19 @@ describe("晨光词径每日学习会话", () => {
     expect(screen.getByText("本次 0/30")).toBeInTheDocument();
   });
 
+  it("把今日会话与作答统计组织为同一组双列摘要", () => {
+    const { container } = render(<App />);
+
+    const summary = container.querySelector(".daily-primary-stats");
+    expect(summary).toBeInTheDocument();
+    expect(summary.children).toHaveLength(2);
+    expect(summary).toHaveTextContent("今日学习");
+    expect(summary).toHaveTextContent("0 次会话");
+    expect(summary).toHaveTextContent("今日作答");
+    expect(within(summary.children[1]).getByText("0", { selector: "strong" })).toBeInTheDocument();
+    expect(summary).toHaveTextContent("次作答 · 0 个词");
+  });
+
   it("显示陆梵，并省去音标旁的播放按钮", async () => {
     const user = userEvent.setup();
     render(<App />);

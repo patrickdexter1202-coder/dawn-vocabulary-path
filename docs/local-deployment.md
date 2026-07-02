@@ -18,7 +18,7 @@
 - 源码目录：`app/`；技术栈为 React 19 + Vite。
 - 包管理器：pnpm；开发命令：`pnpm dev`；生产构建：`pnpm build`；测试：`pnpm test`。
 - GitHub Pages 构建：设置 `VITE_BASE_PATH` 后执行 `pnpm build:pages`；Actions 根据仓库名自动设置子路径。
-- 当前验证基线：4 个测试文件、33 项测试，生产构建与 Pages 路径断言成功。
+- 当前验证基线：5 个测试文件、38 项测试，生产构建与 Pages 路径断言成功。
 - 默认词库随 JavaScript 构建产物发布：混合 542、小学 498、六上 Unit 1 共 44。
 - 学习记录位于 `localStorage`；自定义词库位于 IndexedDB；完整备份为下载到用户设备的 JSON。
 

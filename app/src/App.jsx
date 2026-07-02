@@ -120,11 +120,18 @@ function DailyOverview({ todayStats, activeSession, sessionSize, onFinish }) {
   const current = summarizeSession(activeSession);
   return (
     <aside className="round-panel daily-panel" aria-label="今日和本次学习进度">
-      <p className="eyebrow">今日学习</p>
-      <h2>{todayStats.sessions.length} 次会话</h2>
-      <div className="daily-score">
-        <strong>{todayStats.tested}</strong>
-        <span>次作答 · {todayStats.uniqueWords} 个词</span>
+      <div className="daily-primary-stats">
+        <section className="daily-primary-stat daily-session-stat" aria-label={`今日学习 ${todayStats.sessions.length} 次会话`}>
+          <p className="eyebrow">今日学习</p>
+          <h2>{todayStats.sessions.length} 次会话</h2>
+        </section>
+        <section className="daily-primary-stat daily-answer-stat" aria-label={`今日作答 ${todayStats.tested} 次，${todayStats.uniqueWords} 个词`}>
+          <p className="eyebrow">今日作答</p>
+          <div className="daily-score">
+            <strong>{todayStats.tested}</strong>
+            <span>次作答 · {todayStats.uniqueWords} 个词</span>
+          </div>
+        </section>
       </div>
       <dl className="daily-breakdown">
         <div><dt>答对</dt><dd>{todayStats.correct}</dd></div>
