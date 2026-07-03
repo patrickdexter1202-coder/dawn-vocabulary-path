@@ -1,9 +1,9 @@
 import "fake-indexeddb/auto";
 import { beforeEach, describe, expect, it, vi } from "vitest";
-import { render, screen, within } from "@testing-library/react";
+import { fireEvent, render, screen, within } from "@testing-library/react";
 import userEvent from "@testing-library/user-event";
 import { App } from "./App.jsx";
-import { getLocalDateKey } from "./sessionPlanner.js";
+import { getLocalDateKey, getSessionHistoryRange, shiftDateKey } from "./sessionPlanner.js";
 import { grade6Words } from "./vocabulary.generated.js";
 import { clearLocalDatabase } from "./localLibrary.js";
 
@@ -269,6 +269,46 @@ describe("晨光词径每日学习会话", () => {
     expect(screen.getByText("break")).toBeInTheDocument();
     expect(screen.getByText("正确")).toBeInTheDocument();
     expect(screen.getByText("错误")).toBeInTheDocument();
+  });
+
+  it("学习记录默认显示当天，并可查询最近 90 天内的指定日期", async () => {
+    const user = userEvent.setup();
+    const today = getLocalDateKey();
+    const yesterday = shiftDateKey(today, -1);
+    const emptyDay = shiftDateKey(today, -2);
+    const range = getSessionHistoryRange(today);
+    window.localStorage.setItem("dawn-vocabulary-progress-v2", JSON.stringify({
+      version: 2,
+      sessions: [{
+        id: "yesterday-session",
+        date: yesterday,
+        libraryId: "bridge",
+        startedAt: `${yesterday}T01:00:00.000Z`,
+        endedAt: `${yesterday}T01:05:00.000Z`,
+        plannedWordIds: ["grade6-u1-001"],
+        attempts: [{ wordId: "grade6-u1-001", word: "life", meaning: "生活", answer: "life", correct: true, hintUsed: false, attemptedAt: `${yesterday}T01:01:00.000Z` }],
+      }],
+      wordStats: {},
+      wrongWords: {},
+    }));
+    render(<App />);
+    await user.click(screen.getByRole("button", { name: "打开个人菜单" }));
+    await user.click(screen.getByRole("button", { name: "学习记录" }));
+
+    const dateInput = screen.getByLabelText("查询学习记录日期");
+    expect(dateInput).toHaveValue(today);
+    expect(dateInput).toHaveAttribute("min", range.min);
+    expect(dateInput).toHaveAttribute("max", range.max);
+    expect(screen.getByRole("button", { name: "后一天" })).toBeDisabled();
+
+    await user.click(screen.getByRole("button", { name: "前一天" }));
+    expect(dateInput).toHaveValue(yesterday);
+    expect(screen.getByRole("heading", { name: `${yesterday} 学习记录` })).toBeInTheDocument();
+    expect(screen.getByRole("button", { name: "展开第 1 次学习明细" })).toBeInTheDocument();
+
+    fireEvent.change(dateInput, { target: { value: emptyDay } });
+    expect(dateInput).toHaveValue(emptyDay);
+    expect(screen.getByText("这一天还没有学习记录。")).toBeInTheDocument();
   });
 
   it("删除学习会话必须输入家长密码，并在删除后重算记录", async () => {

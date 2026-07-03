@@ -30,4 +30,10 @@ describe("响应式界面约束", () => {
   it("移动端默写与结果阶段移除冗余答案占位", () => {
     expect(styles).toMatch(/\.study-layout\.is-dictation \.word-panel,[\s\S]*?\.study-layout\.is-result \.word-panel\s*\{[^}]*display:\s*none/);
   });
+
+  it("近 90 天记录日期导航保留触控尺寸并适配手机", () => {
+    expect(styles).toMatch(/\.record-date-navigation\s*\{[^}]*display:\s*grid/);
+    expect(styles).toMatch(/\.record-date-navigation button\s*\{[^}]*min-height:\s*44px/);
+    expect(styles).toMatch(/@media \(max-width: 680px\)[\s\S]*?\.record-date-navigation\s*\{[^}]*grid-template-columns:\s*44px minmax\(0,\s*1fr\) 44px/);
+  });
 });

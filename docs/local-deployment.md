@@ -1,8 +1,8 @@
 # 本地开发与部署说明
 
-更新日期：2026-07-02
+更新日期：2026-07-03
 
-> 当前功能与状态请以 `english-learning-system-spec-v0.8.md` 和 `implementation-plan-v0.8.md` 为准。本文件保留开发机和既有 Windows 迁移说明；当前主要发布目标为 GitHub Pages 在线网页。
+> 当前功能与状态请以 `english-learning-system-spec-v0.9.md` 和 `implementation-plan-v0.9.md` 为准。本文件保留开发机和既有 Windows 迁移说明；当前主要发布目标为 GitHub Pages 在线网页。
 
 ## 当前发布目标
 
@@ -18,7 +18,7 @@
 - 源码目录：`app/`；技术栈为 React 19 + Vite。
 - 包管理器：pnpm；开发命令：`pnpm dev`；生产构建：`pnpm build`；测试：`pnpm test`。
 - GitHub Pages 构建：设置 `VITE_BASE_PATH` 后执行 `pnpm build:pages`；Actions 根据仓库名自动设置子路径。
-- 当前验证基线：5 个测试文件、38 项测试，生产构建与 Pages 路径断言成功。
+- 当前验证基线：5 个测试文件、43 项测试，生产构建成功；Pages 路径断言由自动发布工作流执行。
 - 默认词库随 JavaScript 构建产物发布：混合 542、小学 498、六上 Unit 1 共 44。
 - 学习记录位于 `localStorage`；自定义词库位于 IndexedDB；完整备份为下载到用户设备的 JSON。
 
@@ -44,6 +44,8 @@
 学习记录在浏览器 localStorage 中，自定义词库在 IndexedDB 中。网页运行包可以直接复制，但旧电脑记录不会随文件夹复制；清除浏览器站点数据也会清空两类本地数据。换设备或清理前应从“本地词库与备份”导出完整备份。
 
 当前学习数据使用 `dawn-vocabulary-progress-v2`，包含多次会话时间、逐次作答、错误单词明细和已清除错词标记；首次打开新版会自动迁移 v1 数据，并兼容旧 v2 数据。
+
+学习记录面板默认显示当天，可通过前后日按钮或日期输入查询最近 90 个自然日。查询窗口不会自动删除更早的底层会话；这样可以保留累计复习统计，并让完整备份继续覆盖浏览器中的实际数据。
 
 自定义词库数据库为 `dawn-vocabulary-local-v1`；导入格式见 `vocabulary-import-format-v1.md`。普通 JSON 词库导入与完整备份恢复是两个不同入口。
 

@@ -1,6 +1,7 @@
 export const PROGRESS_STORAGE_KEY = "dawn-vocabulary-progress-v2";
 export const LEGACY_STORAGE_KEY = "dawn-vocabulary-progress-v1";
 export const DEFAULT_SESSION_SIZE = 30;
+export const SESSION_HISTORY_DAYS = 90;
 
 function dateKey(value) {
   const date = value instanceof Date ? value : new Date(value);
@@ -12,6 +13,18 @@ function addDays(iso, days) {
   const value = new Date(iso);
   value.setUTCDate(value.getUTCDate() + days);
   return value.toISOString();
+}
+
+export function shiftDateKey(day, days) {
+  const [year, month, date] = day.split("-").map(Number);
+  const value = new Date(Date.UTC(year, month - 1, date));
+  value.setUTCDate(value.getUTCDate() + days);
+  return value.toISOString().slice(0, 10);
+}
+
+export function getSessionHistoryRange(value = new Date(), days = SESSION_HISTORY_DAYS) {
+  const max = dateKey(value);
+  return { min: shiftDateKey(max, -(days - 1)), max };
 }
 
 export function createEmptyProgress() {

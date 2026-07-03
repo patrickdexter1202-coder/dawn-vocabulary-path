@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { buildSessionPlan, createEmptyProgress, deleteSession, deleteWrongWord, migrateProgress, recordAttempt } from "./sessionPlanner.js";
+import { buildSessionPlan, createEmptyProgress, deleteSession, deleteWrongWord, getSessionHistoryRange, migrateProgress, recordAttempt, shiftDateKey } from "./sessionPlanner.js";
 
 const words = Array.from({ length: 8 }, (_, index) => ({
   id: `word-${index + 1}`,
@@ -8,6 +8,12 @@ const words = Array.from({ length: 8 }, (_, index) => ({
 }));
 
 describe("动态每日选词", () => {
+  it("最近 90 天查询范围包含当天和之前 89 天，并正确跨年", () => {
+    expect(getSessionHistoryRange("2026-01-15")).toEqual({ min: "2025-10-18", max: "2026-01-15" });
+    expect(shiftDateKey("2026-01-01", -1)).toBe("2025-12-31");
+    expect(shiftDateKey("2026-02-28", 1)).toBe("2026-03-01");
+  });
+
   it("活跃高频错词无论是否到期都必须出现", () => {
     const progress = createEmptyProgress();
     progress.wordStats["word-7"] = {

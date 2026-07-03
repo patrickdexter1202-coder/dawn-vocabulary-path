@@ -33,3 +33,4 @@ When implementing from a selected generated mock, treat that image as the source
 - Long vocabulary must never collide with the playback column; use tiered typography, safe wrapping, and the smaller primary playback control.
 - Learning records use two levels: first-level correct/wrong summaries, then an expandable full per-word attempt list.
 - Deleting one ended session or one wrong-word state requires the local parent password `99bill`. Session deletion rebuilds derived statistics; wrong-word deletion preserves historical sessions but dismisses old forced-review state.
+- Learning records open on today and allow browser-local queries across today plus the previous 89 days. Keep older stored sessions intact so cumulative review statistics and complete backups are not silently damaged; do not imply that the 90-day UI window uploads or syncs data.

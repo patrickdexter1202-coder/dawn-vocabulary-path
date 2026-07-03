@@ -3,6 +3,8 @@ import {
   ArrowRightIcon,
   BookOpenIcon,
   CaretDownIcon,
+  CaretLeftIcon,
+  CaretRightIcon,
   CheckCircleIcon,
   ClockIcon,
   LightbulbIcon,
@@ -21,9 +23,11 @@ import {
   finishSession,
   formatDuration,
   getLocalDateKey,
+  getSessionHistoryRange,
   migrateProgress,
   recordAttempt,
   startSession,
+  shiftDateKey,
   summarizeSession,
   summarizeSessions,
 } from "./sessionPlanner.js";
@@ -179,9 +183,18 @@ function StartScreen({ libraryId, onLibraryChange, onStart, todayStats, customLi
 
 function SummaryPanel({ kind, progress, today, onClose, onRequestDelete }) {
   const [expandedSessionId, setExpandedSessionId] = useState(null);
-  const todayStats = summarizeSessions(progress, today);
+  const [selectedDate, setSelectedDate] = useState(today);
+  const historyRange = getSessionHistoryRange(today);
+  const selectedStats = summarizeSessions(progress, selectedDate);
   const allWrongWords = Object.values(progress.wrongWords ?? {}).sort((left, right) => right.errorCount - left.errorCount);
-  const sessionsNewestFirst = [...todayStats.sessions].reverse();
+  const sessionsNewestFirst = [...selectedStats.sessions].reverse();
+  const isToday = selectedDate === today;
+
+  function changeRecordDate(nextDate) {
+    if (nextDate < historyRange.min || nextDate > historyRange.max) return;
+    setSelectedDate(nextDate);
+    setExpandedSessionId(null);
+  }
 
   return (
     <div className="modal-backdrop" role="presentation" onMouseDown={onClose}>
@@ -189,16 +202,22 @@ function SummaryPanel({ kind, progress, today, onClose, onRequestDelete }) {
         <button className="close-button" type="button" aria-label="关闭" onClick={onClose}><XIcon weight="bold" /></button>
         {kind === "records" ? (
           <>
-            <p className="eyebrow">{today} · {todayStats.sessions.length} 次学习</p>
-            <h2 id="summary-title">今日学习记录</h2>
+            <p className="eyebrow">近 90 天 · 当前浏览器</p>
+            <h2 id="summary-title">{isToday ? "今日学习记录" : `${selectedDate} 学习记录`}</h2>
+            <div className="record-date-navigation" aria-label="学习记录日期导航">
+              <button type="button" aria-label="前一天" onClick={() => changeRecordDate(shiftDateKey(selectedDate, -1))} disabled={selectedDate === historyRange.min}><CaretLeftIcon weight="bold" /></button>
+              <label><span className="sr-only">查询学习记录日期</span><input type="date" aria-label="查询学习记录日期" min={historyRange.min} max={historyRange.max} value={selectedDate} onChange={(event) => changeRecordDate(event.target.value)} /></label>
+              <button type="button" aria-label="后一天" onClick={() => changeRecordDate(shiftDateKey(selectedDate, 1))} disabled={isToday}><CaretRightIcon weight="bold" /></button>
+              <span className={`record-date-badge${isToday ? " is-today" : ""}`}>{isToday ? "今天" : `${selectedStats.sessions.length} 次学习`}</span>
+            </div>
             <div className="record-grid is-compact">
-              <div><strong>{todayStats.correct}</strong><span>答对</span></div>
-              <div><strong>{todayStats.wrong}</strong><span>答错</span></div>
+              <div><strong>{selectedStats.correct}</strong><span>答对</span></div>
+              <div><strong>{selectedStats.wrong}</strong><span>答错</span></div>
             </div>
             <div className="session-history">
               {sessionsNewestFirst.length ? sessionsNewestFirst.map((session, reverseIndex) => {
                 const summary = summarizeSession(session);
-                const order = todayStats.sessions.length - reverseIndex;
+                const order = selectedStats.sessions.length - reverseIndex;
                 const expanded = expandedSessionId === session.id;
                 return (
                   <article key={session.id} className="session-history-item">
@@ -229,9 +248,9 @@ function SummaryPanel({ kind, progress, today, onClose, onRequestDelete }) {
                     )}
                   </article>
                 );
-              }) : <p className="empty-state">今天还没有开始学习。</p>}
+              }) : <p className="empty-state">{isToday ? "今天还没有开始学习。" : "这一天还没有学习记录。"}</p>}
             </div>
-            <p className="panel-note">所有会话、时间和错误明细仅保存在这台电脑的当前浏览器中。</p>
+            <p className="panel-note">可查询最近 90 天；所有会话、时间和错误明细仅保存在当前浏览器中，不会上传 GitHub。</p>
           </>
         ) : (
           <>
