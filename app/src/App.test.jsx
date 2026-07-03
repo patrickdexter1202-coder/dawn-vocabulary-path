@@ -103,15 +103,25 @@ describe("晨光词径每日学习会话", () => {
     expect(screen.getByRole("button", { name: "播放单词发音" })).toBeInTheDocument();
   });
 
-  it("默写时遮蔽左侧单词、音标、释义和例句", async () => {
+  it("学习页不展示例句，并为跟读、默写和结果阶段提供布局状态", async () => {
     const user = userEvent.setup();
-    render(<App />);
+    const { container } = render(<App />);
     await user.click(screen.getByRole("button", { name: "开始本次学习" }));
+
+    expect(screen.queryByRole("heading", { name: "例句" })).not.toBeInTheDocument();
+    expect(container.querySelector(".example-block")).not.toBeInTheDocument();
+    expect(container.querySelector(".study-layout")).toHaveClass("is-study");
+
     await user.click(screen.getByRole("button", { name: "我跟读好了，开始默写" }));
 
     expect(screen.getByRole("heading", { name: "默写小考察" })).toBeInTheDocument();
     expect(screen.getByTestId("word-answer-area")).toHaveAttribute("aria-hidden", "true");
     expect(screen.getByTestId("word-answer-area")).toHaveClass("is-concealed");
+    expect(container.querySelector(".study-layout")).toHaveClass("is-dictation");
+
+    await user.type(screen.getByRole("textbox", { name: "填写英文单词" }), "wrong");
+    await user.click(screen.getByRole("button", { name: "检查答案" }));
+    expect(container.querySelector(".study-layout")).toHaveClass("is-result");
   });
 
   it("优先使用有道在线发音并支持慢速", async () => {

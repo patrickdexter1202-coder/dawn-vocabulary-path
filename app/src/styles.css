@@ -521,33 +521,6 @@ a:focus-visible {
   letter-spacing: 0.04em;
 }
 
-.example-block {
-  min-height: 118px;
-}
-
-.example-rule {
-  display: block;
-  width: 80px;
-  height: 1px;
-  margin-bottom: 26px;
-  background: rgba(19, 57, 99, 0.17);
-}
-
-.example-block h2 {
-  margin: 0 0 8px;
-  color: #3469d5;
-  font-size: 1.15rem;
-  font-weight: 400;
-}
-
-.example-block p {
-  margin: 0;
-  color: #092c56;
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: clamp(1.22rem, 1.72vw, 1.65rem);
-  line-height: 1.35;
-}
-
 .action-panel {
   display: grid;
   justify-items: center;
@@ -1307,10 +1280,6 @@ a:focus-visible {
   .meaning {
     margin: 28px 0 34px;
     font-size: 2.15rem;
-  }
-
-  .example-block p {
-    font-size: 1.18rem;
   }
 
   .action-panel {
@@ -2522,5 +2491,236 @@ a:focus-visible {
   .session-word-list b {
     grid-column: 2;
     grid-row: 1 / span 2;
+  }
+}
+
+/* v0.9 · 移动端学习与默写首屏密度 */
+@media (max-width: 680px) {
+  .study-layout.is-study,
+  .study-layout.is-dictation,
+  .study-layout.is-result {
+    padding-top: 14px;
+    padding-bottom: 28px;
+    gap: 12px;
+  }
+
+  .study-layout.is-study .daily-primary-stats,
+  .study-layout.is-study .daily-breakdown,
+  .study-layout.is-dictation .daily-primary-stats,
+  .study-layout.is-dictation .daily-breakdown,
+  .study-layout.is-result .daily-primary-stats,
+  .study-layout.is-result .daily-breakdown {
+    display: none;
+  }
+
+  .study-layout.is-study .session-progress-card,
+  .study-layout.is-dictation .session-progress-card,
+  .study-layout.is-result .session-progress-card {
+    min-height: 48px;
+    margin: 0;
+    padding: 4px 6px 4px 12px;
+    grid-template-columns: auto auto minmax(42px, 1fr) auto;
+    align-items: center;
+    gap: 8px;
+    border-radius: 16px;
+  }
+
+  .study-layout.is-study .session-progress-card > span,
+  .study-layout.is-dictation .session-progress-card > span,
+  .study-layout.is-result .session-progress-card > span {
+    font-size: 0.78rem;
+    white-space: nowrap;
+  }
+
+  .study-layout.is-study .session-progress-card strong,
+  .study-layout.is-dictation .session-progress-card strong,
+  .study-layout.is-result .session-progress-card strong {
+    font-size: 1.2rem;
+    white-space: nowrap;
+  }
+
+  .study-layout.is-study .progress-track,
+  .study-layout.is-dictation .progress-track,
+  .study-layout.is-result .progress-track {
+    width: 100%;
+    margin: 0;
+  }
+
+  .study-layout.is-study .end-session-button,
+  .study-layout.is-dictation .end-session-button,
+  .study-layout.is-result .end-session-button {
+    min-height: 44px;
+    padding: 0 10px;
+    white-space: nowrap;
+  }
+
+  .study-layout.is-study .word-content-shell {
+    min-height: 0;
+  }
+
+  .study-layout.is-study .set-pill {
+    min-height: 42px;
+    padding: 6px 12px;
+    gap: 7px;
+    border-radius: 14px;
+    font-size: 0.92rem;
+  }
+
+  .study-layout.is-study .set-pill svg {
+    width: 22px;
+    height: 22px;
+  }
+
+  .study-layout.is-study .word-content h1 {
+    margin: 12px 0 0;
+    font-size: clamp(3.65rem, 18vw, 5rem);
+    line-height: 0.95;
+  }
+
+  .study-layout.is-study .word-content h1.is-long {
+    font-size: clamp(3rem, 14vw, 4.2rem);
+  }
+
+  .study-layout.is-study .word-content h1.is-extra-long {
+    font-size: clamp(2.35rem, 11vw, 3.4rem);
+  }
+
+  .study-layout.is-study .pronunciation-row {
+    min-height: 30px;
+    margin-top: 4px;
+    font-size: 1.24rem;
+  }
+
+  .study-layout.is-study .meaning {
+    margin: 6px 0 0;
+    font-size: 1.62rem;
+    line-height: 1.15;
+  }
+
+  .study-layout.is-study .source-note,
+  .study-layout.is-study .next-hint,
+  .study-layout.is-study ~ .study-tip,
+  .study-layout.is-dictation ~ .study-tip,
+  .study-layout.is-result ~ .study-tip {
+    display: none;
+  }
+
+  .study-layout.is-study .action-panel {
+    padding-top: 0;
+  }
+
+  .study-layout.is-study .play-button {
+    width: min(34vw, 132px);
+    border-width: 5px;
+  }
+
+  .study-layout.is-study .play-button::after {
+    inset: -7px;
+  }
+
+  .study-layout.is-study .play-button svg {
+    width: 48px;
+    height: 48px;
+  }
+
+  .study-layout.is-study .play-caption {
+    left: 0;
+    min-height: 20px;
+    margin: 7px 0 5px;
+    font-size: 0.9rem;
+  }
+
+  .study-layout.is-study .speed-control {
+    left: 0;
+    width: min(100%, 290px);
+    min-height: 48px;
+  }
+
+  .study-layout.is-study .speed-control button {
+    min-height: 44px;
+    padding: 4px 10px;
+  }
+
+  .study-layout.is-study .speed-control strong {
+    font-size: 1rem;
+  }
+
+  .study-layout.is-study .speed-control span {
+    font-size: 0.84rem;
+  }
+
+  .study-layout.is-study .next-button {
+    left: 0;
+    min-height: 54px;
+    margin-top: 10px;
+    padding: 0 24px 0 30px;
+    border-radius: 28px;
+    font-size: 1.2rem;
+  }
+
+  .study-layout.is-study .next-button svg {
+    width: 26px;
+    height: 26px;
+  }
+
+  .study-layout.is-dictation .word-panel,
+  .study-layout.is-result .word-panel {
+    display: none;
+  }
+
+  .study-layout.is-dictation .action-panel,
+  .study-layout.is-result .action-panel {
+    padding-top: 0;
+  }
+
+  .study-layout.is-dictation .dictation-card,
+  .study-layout.is-result .dictation-card {
+    padding: 18px;
+    border-radius: 24px;
+  }
+
+  .study-layout.is-dictation .dictation-card h2,
+  .study-layout.is-result .dictation-card h2 {
+    font-size: 1.72rem;
+  }
+
+  .study-layout.is-dictation .dictation-meaning,
+  .study-layout.is-result .dictation-meaning {
+    margin: 10px 0 12px;
+    font-size: 1.32rem;
+    line-height: 1.25;
+  }
+
+  .study-layout.is-dictation .dictation-card form {
+    gap: 8px;
+  }
+
+  .study-layout.is-dictation .dictation-card input {
+    min-height: 52px;
+    padding-block: 8px;
+  }
+
+  .study-layout.is-dictation .dictation-actions {
+    margin-top: 4px;
+  }
+
+  .study-layout.is-dictation .hint-button,
+  .study-layout.is-dictation .check-button,
+  .study-layout.is-result .check-button {
+    min-height: 48px;
+  }
+
+  .study-layout.is-result .answer-result > svg {
+    width: 42px;
+    height: 42px;
+  }
+
+  .study-layout.is-result .answer-result h3 {
+    margin: 8px 0 5px;
+    font-size: 1.18rem;
+  }
+
+  .study-layout.is-result .answer-result p {
+    margin-bottom: 12px;
   }
 }

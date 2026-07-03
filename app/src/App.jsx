@@ -494,7 +494,7 @@ export function App() {
         </div>
       </header>
 
-      <div className={`study-layout${screen === "ready" ? " is-start" : ""}${screen === "complete" ? " is-complete" : ""}`} id="study">
+      <div className={`study-layout${screen === "ready" ? " is-start" : ""}${screen === "complete" ? " is-complete" : ""}${screen === "study" ? ` is-${phase}` : ""}`} id="study">
         {screen === "ready" && <StartScreen libraryId={libraryId} onLibraryChange={(event) => setLibraryId(event.target.value)} onStart={beginSession} todayStats={todayStats} customLibraries={customLibraries} />}
 
         {screen === "study" && currentWord && (
@@ -512,7 +512,6 @@ export function App() {
                   <h1 id="current-word" className={wordSizeClass(currentWord.word)} data-testid="current-word-value">{currentWord.word}</h1>
                   <div className="pronunciation-row"><span>{currentWord.phonetic || "/待补充/"}</span></div>
                   <p className="meaning">{currentWord.meaning}</p>
-                  <div className="example-block"><span className="example-rule" aria-hidden="true" /><h2>例句</h2><p>{currentWord.example}</p></div>
                   <p className="source-note">{currentWord.sourceType}</p>
                 </div>
                 {concealAnswer && <div className="conceal-message"><LightbulbIcon weight="regular" /><strong>默写中，答案已隐藏</strong><span>提交后会重新显示</span></div>}

@@ -21,4 +21,13 @@ describe("响应式界面约束", () => {
     expect(styles).toMatch(/src:\s*url\([^)]*\.woff2["']?\)\s*format\(["']woff2["']\)/);
     expect(styles).not.toMatch(/AlimamaDongFangDaKai-Regular\.ttf/);
   });
+
+  it("移动端跟读阶段压缩主内容和朗读操作", () => {
+    expect(styles).toMatch(/@media \(max-width: 680px\)[\s\S]*?\.study-layout\.is-study \.word-content-shell\s*\{[^}]*min-height:\s*0/);
+    expect(styles).toMatch(/@media \(max-width: 680px\)[\s\S]*?\.study-layout\.is-study \.play-button\s*\{[^}]*width:\s*min\([^;]*132px\)/);
+  });
+
+  it("移动端默写与结果阶段移除冗余答案占位", () => {
+    expect(styles).toMatch(/\.study-layout\.is-dictation \.word-panel,[\s\S]*?\.study-layout\.is-result \.word-panel\s*\{[^}]*display:\s*none/);
+  });
 });
