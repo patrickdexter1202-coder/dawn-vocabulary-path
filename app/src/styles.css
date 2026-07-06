@@ -893,11 +893,18 @@ a:focus-visible {
 }
 
 .record-date-navigation label {
+  display: block;
+  width: 100%;
   min-width: 0;
+  overflow: hidden;
+  border-radius: 14px;
 }
 
 .record-date-navigation input {
+  display: block;
   width: 100%;
+  min-width: 0;
+  max-width: 100%;
   min-height: 44px;
   padding: 8px 12px;
   border: 1px solid rgba(49, 76, 115, 0.2);

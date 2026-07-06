@@ -36,4 +36,9 @@ describe("响应式界面约束", () => {
     expect(styles).toMatch(/\.record-date-navigation button\s*\{[^}]*min-height:\s*44px/);
     expect(styles).toMatch(/@media \(max-width: 680px\)[\s\S]*?\.record-date-navigation\s*\{[^}]*grid-template-columns:\s*44px minmax\(0,\s*1fr\) 44px/);
   });
+
+  it("移动端日期输入会收缩并裁切在两个日期按钮之间", () => {
+    expect(styles).toMatch(/\.record-date-navigation label\s*\{[^}]*width:\s*100%[^}]*overflow:\s*hidden/);
+    expect(styles).toMatch(/\.record-date-navigation input\s*\{[^}]*display:\s*block[^}]*min-width:\s*0[^}]*max-width:\s*100%/);
+  });
 });
