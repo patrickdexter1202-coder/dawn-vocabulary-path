@@ -4119,7 +4119,7 @@ export const primaryWords = [
   {
     "id": "primary-0295",
     "word": "o'clock",
-    "answer": "o'clock",
+    "answer": "oclock",
     "phonetic": "/ә'klɔk/",
     "meaning": "n. ...点钟, 钟头",
     "example": "Let's learn how to use “o'clock”.",
@@ -6976,627 +6976,3889 @@ export const primaryWords = [
 
 export const grade6Words = [
   {
-    "id": "grade6-u1-001",
+    "id": "grade6-unit1-001",
     "word": "life",
     "answer": "life",
-    "phonetic": "/laɪf/",
+    "phonetic": "/laif/",
     "meaning": "n. 生活；生命",
-    "example": "School life can be colourful.",
+    "example": "Let's learn how to use “life”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-002",
+    "id": "grade6-unit1-002",
     "word": "break",
     "answer": "break",
-    "phonetic": "/breɪk/",
-    "meaning": "n. 课间休息；间歇",
-    "example": "We have a short break after class.",
+    "phonetic": "/breik/",
+    "meaning": "n. 课间休息；间歇；休息",
+    "example": "Let's learn how to use “break”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-003",
+    "id": "grade6-unit1-003",
     "word": "ICT",
     "answer": "ict",
-    "phonetic": "/ˌaɪ siː ˈtiː/",
+    "phonetic": "",
     "meaning": "n. 信息通信技术（课程）",
-    "example": "We learn computer skills in ICT.",
+    "example": "Let's learn how to use “ICT”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-004",
+    "id": "grade6-unit1-004",
     "word": "geography",
     "answer": "geography",
-    "phonetic": "/dʒiˈɒɡrəfi/",
+    "phonetic": "/dʒi'ɒgrәfi/",
     "meaning": "n. 地理",
-    "example": "Geography helps us learn about the world.",
+    "example": "Let's learn how to use “geography”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-005",
+    "id": "grade6-unit1-005",
     "word": "history",
     "answer": "history",
-    "phonetic": "/ˈhɪstri/",
+    "phonetic": "/'histәri/",
     "meaning": "n. 历史",
-    "example": "History is my favourite subject.",
+    "example": "Let's learn how to use “history”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-006",
-    "word": "French",
-    "answer": "french",
-    "phonetic": "/frentʃ/",
-    "meaning": "n. 法语；adj. 法国的",
-    "example": "She is learning French at school.",
-    "libraries": [
-      "grade6"
-    ],
-    "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
-  },
-  {
-    "id": "grade6-u1-007",
+    "id": "grade6-unit1-006",
     "word": "more",
     "answer": "more",
-    "phonetic": "/mɔː(r)/",
+    "phonetic": "/mɒ:/",
     "meaning": "det. & pron. 更多的",
-    "example": "I want to know more about the club.",
+    "example": "Let's learn how to use “more”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-008",
+    "id": "grade6-unit1-007",
     "word": "instruction",
     "answer": "instruction",
-    "phonetic": "/ɪnˈstrʌkʃ(ə)n/",
+    "phonetic": "/in'strʌkʃәn/",
     "meaning": "n. 指示；命令",
-    "example": "Please listen to the instruction.",
+    "example": "Let's learn how to use “instruction”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-009",
+    "id": "grade6-unit1-008",
     "word": "experiment",
     "answer": "experiment",
-    "phonetic": "/ɪkˈsperɪmənt/",
+    "phonetic": "/ik'sperimәnt/",
     "meaning": "n. 实验；试验",
-    "example": "We do an experiment in the lab.",
+    "example": "Let's learn how to use “experiment”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-010",
+    "id": "grade6-unit1-009",
     "word": "activity",
     "answer": "activity",
-    "phonetic": "/ækˈtɪvəti/",
+    "phonetic": "/æk'tiviti/",
     "meaning": "n. 活动",
-    "example": "This activity is great fun.",
+    "example": "Let's learn how to use “activity”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-011",
+    "id": "grade6-unit1-010",
     "word": "club",
     "answer": "club",
     "phonetic": "/klʌb/",
-    "meaning": "n. 社团；俱乐部",
-    "example": "I joined the reading club.",
+    "meaning": "n. 社团",
+    "example": "Let's learn how to use “club”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-012",
+    "id": "grade6-unit1-011",
     "word": "calligraphy",
     "answer": "calligraphy",
-    "phonetic": "/kəˈlɪɡrəfi/",
+    "phonetic": "/kә'ligrәfi/",
     "meaning": "n. 书法",
-    "example": "Chinese calligraphy is beautiful.",
+    "example": "Let's learn how to use “calligraphy”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-013",
+    "id": "grade6-unit1-012",
     "word": "join",
     "answer": "join",
-    "phonetic": "/dʒɔɪn/",
-    "meaning": "v. 加入；参加",
-    "example": "Would you like to join us?",
+    "phonetic": "/dʒɒin/",
+    "meaning": "v. 加入",
+    "example": "Let's learn how to use “join”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-014",
+    "id": "grade6-unit1-013",
     "word": "technology",
     "answer": "technology",
-    "phonetic": "/tekˈnɒlədʒi/",
-    "meaning": "n. 科技；技术",
-    "example": "Technology changes our lives.",
+    "phonetic": "/tek'nɒlәdʒi/",
+    "meaning": "n. 科技",
+    "example": "Let's learn how to use “technology”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-015",
+    "id": "grade6-unit1-014",
     "word": "everyone",
     "answer": "everyone",
-    "phonetic": "/ˈevriwʌn/",
+    "phonetic": "/'evriwʌn/",
     "meaning": "pron. 每个人",
-    "example": "Everyone has a study plan.",
+    "example": "Let's learn how to use “everyone”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-016",
+    "id": "grade6-unit1-015",
     "word": "lab",
     "answer": "lab",
     "phonetic": "/læb/",
     "meaning": "n. 实验室",
-    "example": "The students are in the science lab.",
+    "example": "Let's learn how to use “lab”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-017",
+    "id": "grade6-unit1-016",
     "word": "field",
     "answer": "field",
-    "phonetic": "/fiːld/",
-    "meaning": "n. 场地；田野",
-    "example": "We meet on the sports field.",
+    "phonetic": "/fi:ld/",
+    "meaning": "n. 场地",
+    "example": "Let's learn how to use “field”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-018",
+    "id": "grade6-unit1-017",
     "word": "grade",
     "answer": "grade",
-    "phonetic": "/ɡreɪd/",
-    "meaning": "n. 年级；成绩",
-    "example": "She is in Grade Six.",
+    "phonetic": "/greid/",
+    "meaning": "n. 年级",
+    "example": "Let's learn how to use “grade”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-019",
+    "id": "grade6-unit1-018",
     "word": "excuse",
     "answer": "excuse",
-    "phonetic": "/ɪkˈskjuːs/",
+    "phonetic": "/ik'skju:z/",
     "meaning": "v. 原谅；宽恕",
-    "example": "Please excuse me for being late.",
+    "example": "Let's learn how to use “excuse”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-020",
+    "id": "grade6-unit1-019",
     "word": "excuse me",
     "answer": "excuse me",
-    "phonetic": "/ɪkˈskjuːs miː/",
+    "phonetic": "",
     "meaning": "对不起；劳驾",
-    "example": "Excuse me, where is the library?",
+    "example": "Let's learn how to use “excuse me”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-021",
+    "id": "grade6-unit1-020",
     "word": "of course",
     "answer": "of course",
-    "phonetic": "/əv kɔːs/",
+    "phonetic": "",
     "meaning": "当然",
-    "example": "Of course you can use my pen.",
+    "example": "Let's learn how to use “of course”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-022",
+    "id": "grade6-unit1-021",
     "word": "project",
     "answer": "project",
-    "phonetic": "/ˈprɒdʒekt/",
-    "meaning": "n. 项目；课题",
-    "example": "We are doing a school project.",
+    "phonetic": "/'prɒdʒekt/",
+    "meaning": "n. 项目",
+    "example": "Let's learn how to use “project”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-023",
+    "id": "grade6-unit1-022",
     "word": "start",
     "answer": "start",
-    "phonetic": "/stɑːt/",
-    "meaning": "v. 开始",
-    "example": "The lesson starts at eight.",
+    "phonetic": "/stɑ:t/",
+    "meaning": "v. 开始（做某事）",
+    "example": "Let's learn how to use “start”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-024",
+    "id": "grade6-unit1-023",
     "word": "topic",
     "answer": "topic",
-    "phonetic": "/ˈtɒpɪk/",
+    "phonetic": "/'tɒpik/",
     "meaning": "n. 话题；主题",
-    "example": "Food is our topic today.",
+    "example": "Let's learn how to use “topic”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-025",
+    "id": "grade6-unit1-024",
     "word": "online",
     "answer": "online",
-    "phonetic": "/ˌɒnˈlaɪn/",
-    "meaning": "adv. 在线；adj. 在线的",
-    "example": "We can read the notice online.",
+    "phonetic": "",
+    "meaning": "adv. 在线；adj. 在线的；联网的",
+    "example": "Let's learn how to use “online”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-026",
+    "id": "grade6-unit1-025",
     "word": "receive",
     "answer": "receive",
-    "phonetic": "/rɪˈsiːv/",
+    "phonetic": "/ri'si:v/",
     "meaning": "v. 接到；收到",
-    "example": "Did you receive my message?",
+    "example": "Let's learn how to use “receive”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-027",
+    "id": "grade6-unit1-026",
     "word": "reply",
     "answer": "reply",
-    "phonetic": "/rɪˈplaɪ/",
+    "phonetic": "/ri'plai/",
     "meaning": "n. 回答；答复",
-    "example": "I am waiting for your reply.",
+    "example": "Let's learn how to use “reply”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-028",
+    "id": "grade6-unit1-027",
     "word": "group",
     "answer": "group",
-    "phonetic": "/ɡruːp/",
+    "phonetic": "/gru:p/",
     "meaning": "n. 组；群；批；类",
-    "example": "Work together in a small group.",
+    "example": "Let's learn how to use “group”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-029",
+    "id": "grade6-unit1-028",
     "word": "most",
     "answer": "most",
-    "phonetic": "/məʊst/",
-    "meaning": "det. 大多数；最多",
-    "example": "Most students walk to school.",
+    "phonetic": "/mәust/",
+    "meaning": "adv. 最",
+    "example": "Let's learn how to use “most”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-030",
+    "id": "grade6-unit1-029",
     "word": "a.m.",
     "answer": "am",
-    "phonetic": "/ˌeɪ ˈem/",
+    "phonetic": "",
     "meaning": "abbr. 上午",
-    "example": "School starts at 8 a.m.",
+    "example": "Let's learn how to use “a.m.”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-031",
+    "id": "grade6-unit1-030",
     "word": "end",
     "answer": "end",
     "phonetic": "/end/",
-    "meaning": "v. 结束；n. 末尾",
-    "example": "Classes end at four.",
+    "meaning": "v. 结束",
+    "example": "Let's learn how to use “end”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-032",
+    "id": "grade6-unit1-031",
     "word": "p.m.",
     "answer": "pm",
-    "phonetic": "/ˌpiː ˈem/",
+    "phonetic": "",
     "meaning": "abbr. 下午",
-    "example": "The club meets at 4 p.m.",
+    "example": "Let's learn how to use “p.m.”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-033",
+    "id": "grade6-unit1-032",
     "word": "difference",
     "answer": "difference",
-    "phonetic": "/ˈdɪfrəns/",
+    "phonetic": "/'difәrәns/",
     "meaning": "n. 差别；不同之处",
-    "example": "Can you find the difference?",
+    "example": "Let's learn how to use “difference”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-034",
+    "id": "grade6-unit1-033",
     "word": "same",
     "answer": "same",
-    "phonetic": "/seɪm/",
-    "meaning": "adj. 一样的；相同的",
-    "example": "We are in the same class.",
+    "phonetic": "/seim/",
+    "meaning": "adj. 一样的",
+    "example": "Let's learn how to use “same”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-035",
+    "id": "grade6-unit1-034",
     "word": "during",
     "answer": "during",
-    "phonetic": "/ˈdjʊərɪŋ/",
+    "phonetic": "/'djuәriŋ/",
     "meaning": "prep. 在……期间",
-    "example": "Do not talk during the test.",
+    "example": "Let's learn how to use “during”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-036",
+    "id": "grade6-unit1-035",
     "word": "outside",
     "answer": "outside",
-    "phonetic": "/ˌaʊtˈsaɪd/",
+    "phonetic": "/'aut'said/",
     "meaning": "adv. 在外面；prep. 在……外面",
-    "example": "The students are waiting outside.",
+    "example": "Let's learn how to use “outside”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-037",
+    "id": "grade6-unit1-036",
     "word": "noon",
     "answer": "noon",
-    "phonetic": "/nuːn/",
+    "phonetic": "/nu:n/",
     "meaning": "n. 正午；中午",
-    "example": "We have lunch at noon.",
+    "example": "Let's learn how to use “noon”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-038",
+    "id": "grade6-unit1-037",
     "word": "connect",
     "answer": "connect",
-    "phonetic": "/kəˈnekt/",
-    "meaning": "v. 连接；联系",
-    "example": "Connect the computer to the screen.",
+    "phonetic": "/kә'nekt/",
+    "meaning": "v. 连接",
+    "example": "Let's learn how to use “connect”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-039",
+    "id": "grade6-unit1-038",
     "word": "comment",
     "answer": "comment",
-    "phonetic": "/ˈkɒment/",
-    "meaning": "n. 评论；v. 发表意见",
-    "example": "Please write a short comment.",
+    "phonetic": "/'kɒment/",
+    "meaning": "n. 议论；评论；解释；v. 表达意见",
+    "example": "Let's learn how to use “comment”.",
     "libraries": [
       "grade6"
     ],
     "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-040",
+    "id": "grade6-unit2-039",
     "word": "tie",
     "answer": "tie",
-    "phonetic": "/taɪ/",
-    "meaning": "n. 联系；纽带；领带",
-    "example": "Friendship is a strong tie.",
+    "phonetic": "/tai/",
+    "meaning": "n. 联系；关系；纽带",
+    "example": "Let's learn how to use “tie”.",
     "libraries": [
       "grade6"
     ],
-    "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-041",
+    "id": "grade6-unit2-040",
     "word": "relation",
     "answer": "relation",
-    "phonetic": "/rɪˈleɪʃ(ə)n/",
+    "phonetic": "/ri'leiʃәn/",
     "meaning": "n. 关系；联系",
-    "example": "What is the relation between them?",
+    "example": "Let's learn how to use “relation”.",
     "libraries": [
       "grade6"
     ],
-    "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-042",
+    "id": "grade6-unit2-041",
     "word": "introduce",
     "answer": "introduce",
-    "phonetic": "/ˌɪntrəˈdjuːs/",
+    "phonetic": "/.intrә'dju:s/",
     "meaning": "v. 介绍",
-    "example": "Let me introduce my classmate.",
+    "example": "Let's learn how to use “introduce”.",
     "libraries": [
       "grade6"
     ],
-    "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-043",
+    "id": "grade6-unit2-042",
     "word": "classmate",
     "answer": "classmate",
-    "phonetic": "/ˈklɑːsmeɪt/",
+    "phonetic": "/'klɑ:smeit/",
     "meaning": "n. 同班同学",
-    "example": "My classmate sits beside me.",
+    "example": "Let's learn how to use “classmate”.",
     "libraries": [
       "grade6"
     ],
-    "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   },
   {
-    "id": "grade6-u1-044",
+    "id": "grade6-unit2-043",
     "word": "relative",
     "answer": "relative",
-    "phonetic": "/ˈrelətɪv/",
+    "phonetic": "/'relәtiv/",
     "meaning": "n. 亲戚；亲属",
-    "example": "Many relatives came to the party.",
+    "example": "Let's learn how to use “relative”.",
     "libraries": [
       "grade6"
     ],
-    "unitLabel": "六年级上册 · Unit 1",
-    "sourceType": "2024新版牛津上海版五四制六年级上册 Unit 1 School life",
-    "reviewStatus": "公开词表与单元练习交叉核对；待收到学生实际教材后复核ISBN和页码"
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-044",
+    "word": "only",
+    "answer": "only",
+    "phonetic": "/'әunli/",
+    "meaning": "adj. 仅有的；唯一的",
+    "example": "Let's learn how to use “only”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-045",
+    "word": "only child",
+    "answer": "only child",
+    "phonetic": "/ˈəunli tʃaild/",
+    "meaning": "独生子（或女）",
+    "example": "Let's learn how to use “only child”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-046",
+    "word": "twin",
+    "answer": "twin",
+    "phonetic": "/twin/",
+    "meaning": "n. 双胞胎之一",
+    "example": "Let's learn how to use “twin”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-047",
+    "word": "husband",
+    "answer": "husband",
+    "phonetic": "/'hʌzbәnd/",
+    "meaning": "n. 丈夫",
+    "example": "Let's learn how to use “husband”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-048",
+    "word": "wife",
+    "answer": "wife",
+    "phonetic": "/waif/",
+    "meaning": "n. 妻子",
+    "example": "Let's learn how to use “wife”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-049",
+    "word": "son",
+    "answer": "son",
+    "phonetic": "/sʌn/",
+    "meaning": "n. 儿子",
+    "example": "Let's learn how to use “son”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-050",
+    "word": "daughter",
+    "answer": "daughter",
+    "phonetic": "/'dɒ:tә/",
+    "meaning": "n. 女儿",
+    "example": "Let's learn how to use “daughter”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-051",
+    "word": "other",
+    "answer": "other",
+    "phonetic": "/'ʌðә/",
+    "meaning": "adj. 另外；其他；pron. 另外的人（或物）",
+    "example": "Let's learn how to use “other”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-052",
+    "word": "member",
+    "answer": "member",
+    "phonetic": "/'membә/",
+    "meaning": "n. 成员；分子",
+    "example": "Let's learn how to use “member”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-053",
+    "word": "add",
+    "answer": "add",
+    "phonetic": "/æd/",
+    "meaning": "v. 添加；增加",
+    "example": "Let's learn how to use “add”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-054",
+    "word": "note",
+    "answer": "note",
+    "phonetic": "/nәut/",
+    "meaning": "n. 笔记；记录；音符",
+    "example": "Let's learn how to use “note”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-055",
+    "word": "album",
+    "answer": "album",
+    "phonetic": "/'ælbәm/",
+    "meaning": "n. 相册；影集",
+    "example": "Let's learn how to use “album”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-056",
+    "word": "teach",
+    "answer": "teach",
+    "phonetic": "/ti:tʃ/",
+    "meaning": "v. 教（某人）；使（某人）明白或会做某事",
+    "example": "Let's learn how to use “teach”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-057",
+    "word": "homework",
+    "answer": "homework",
+    "phonetic": "/'hәumwә:k/",
+    "meaning": "n. （学生的）家庭作业",
+    "example": "Let's learn how to use “homework”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-058",
+    "word": "guitar",
+    "answer": "guitar",
+    "phonetic": "/gi'tɑ:/",
+    "meaning": "n. 吉他",
+    "example": "Let's learn how to use “guitar”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-059",
+    "word": "elder",
+    "answer": "elder",
+    "phonetic": "/'eldә/",
+    "meaning": "adj. 年长的；年龄较大的",
+    "example": "Let's learn how to use “elder”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-060",
+    "word": "sofa",
+    "answer": "sofa",
+    "phonetic": "/'sәufә/",
+    "meaning": "n. 长沙发",
+    "example": "Let's learn how to use “sofa”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-061",
+    "word": "round",
+    "answer": "round",
+    "phonetic": "/raund/",
+    "meaning": "adj. 圆形的",
+    "example": "Let's learn how to use “round”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-062",
+    "word": "dark",
+    "answer": "dark",
+    "phonetic": "/dɑ:k/",
+    "meaning": "adj. 乌黑的；深色的；黑暗的",
+    "example": "Let's learn how to use “dark”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-063",
+    "word": "chess",
+    "answer": "chess",
+    "phonetic": "/tʃes/",
+    "meaning": "n. 国际象棋",
+    "example": "Let's learn how to use “chess”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-064",
+    "word": "duty",
+    "answer": "duty",
+    "phonetic": "/'dju:ti/",
+    "meaning": "n. 责任；义务；本分",
+    "example": "Let's learn how to use “duty”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-065",
+    "word": "born",
+    "answer": "born",
+    "phonetic": "/bɒ:n/",
+    "meaning": "v. 出生；出世",
+    "example": "Let's learn how to use “born”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-066",
+    "word": "weekend",
+    "answer": "weekend",
+    "phonetic": "/'wi:kend/",
+    "meaning": "n. 星期六和星期日；周末",
+    "example": "Let's learn how to use “weekend”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-067",
+    "word": "thing",
+    "answer": "thing",
+    "phonetic": "/θiŋ/",
+    "meaning": "n. 事情；事件",
+    "example": "Let's learn how to use “thing”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-068",
+    "word": "enough",
+    "answer": "enough",
+    "phonetic": "/i'nʌf/",
+    "meaning": "adv. 足够地；充分地",
+    "example": "Let's learn how to use “enough”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-069",
+    "word": "Well done!",
+    "answer": "well done",
+    "phonetic": "",
+    "meaning": "做得好！干得好！",
+    "example": "Let's learn how to use “Well done!”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-070",
+    "word": "dish",
+    "answer": "dish",
+    "phonetic": "/diʃ/",
+    "meaning": "n. 碟子；盘子；一道菜；菜肴",
+    "example": "Let's learn how to use “dish”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-071",
+    "word": "usually",
+    "answer": "usually",
+    "phonetic": "/'ju:ʒuәli/",
+    "meaning": "adv. 通常地；经常地",
+    "example": "Let's learn how to use “usually”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-072",
+    "word": "quick",
+    "answer": "quick",
+    "phonetic": "/kwik/",
+    "meaning": "adj. 快的；迅速的",
+    "example": "Let's learn how to use “quick”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-073",
+    "word": "together",
+    "answer": "together",
+    "phonetic": "/tә'geðә/",
+    "meaning": "adv. 在一起；共同",
+    "example": "Let's learn how to use “together”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-074",
+    "word": "flat",
+    "answer": "flat",
+    "phonetic": "/flæt/",
+    "meaning": "n. 公寓；一套房间",
+    "example": "Let's learn how to use “flat”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-075",
+    "word": "fun",
+    "answer": "fun",
+    "phonetic": "/fʌn/",
+    "meaning": "n. 乐趣；快乐",
+    "example": "Let's learn how to use “fun”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-076",
+    "word": "celebration",
+    "answer": "celebration",
+    "phonetic": "/.seli'breiʃәn/",
+    "meaning": "n. 庆典；庆祝活动",
+    "example": "Let's learn how to use “celebration”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-077",
+    "word": "prepare",
+    "answer": "prepare",
+    "phonetic": "/pri'pєә/",
+    "meaning": "v. 使做好准备；把……预备好",
+    "example": "Let's learn how to use “prepare”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-078",
+    "word": "decorate",
+    "answer": "decorate",
+    "phonetic": "/'dekәreit/",
+    "meaning": "v. 装饰",
+    "example": "Let's learn how to use “decorate”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-079",
+    "word": "living room",
+    "answer": "living room",
+    "phonetic": "",
+    "meaning": "n. 客厅；起居室",
+    "example": "Let's learn how to use “living room”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-080",
+    "word": "balloon",
+    "answer": "balloon",
+    "phonetic": "/bә'lu:n/",
+    "meaning": "n. 气球",
+    "example": "Let's learn how to use “balloon”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-081",
+    "word": "set",
+    "answer": "set",
+    "phonetic": "/set/",
+    "meaning": "v. 放置；摆放",
+    "example": "Let's learn how to use “set”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-082",
+    "word": "surprised",
+    "answer": "surprised",
+    "phonetic": "/sә'praizd/",
+    "meaning": "adj. 惊奇的；惊讶的；感觉意外的",
+    "example": "Let's learn how to use “surprised”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-083",
+    "word": "super-excited",
+    "answer": "super-excited",
+    "phonetic": "",
+    "meaning": "adj. 超级激动的；格外兴奋的",
+    "example": "Let's learn how to use “super-excited”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-084",
+    "word": "joy",
+    "answer": "joy",
+    "phonetic": "/dʒɒi/",
+    "meaning": "n. 高兴；愉快；喜悦",
+    "example": "Let's learn how to use “joy”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit2-085",
+    "word": "jump for joy",
+    "answer": "jump for joy",
+    "phonetic": "/dʒʌmp fɔ: dʒɔi/",
+    "meaning": "欢呼雀跃",
+    "example": "Let's learn how to use “jump for joy”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 2",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-086",
+    "word": "something",
+    "answer": "something",
+    "phonetic": "/'sʌmθiŋ/",
+    "meaning": "pron. 某事；某物",
+    "example": "Let's learn how to use “something”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-087",
+    "word": "beef",
+    "answer": "beef",
+    "phonetic": "/bi:f/",
+    "meaning": "n. 牛肉",
+    "example": "Let's learn how to use “beef”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-088",
+    "word": "tofu",
+    "answer": "tofu",
+    "phonetic": "/'tәufu:/",
+    "meaning": "n. 豆腐",
+    "example": "Let's learn how to use “tofu”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-089",
+    "word": "pepper",
+    "answer": "pepper",
+    "phonetic": "/'pepә/",
+    "meaning": "n. 甜椒",
+    "example": "Let's learn how to use “pepper”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-090",
+    "word": "cabbage",
+    "answer": "cabbage",
+    "phonetic": "/'kæbidʒ/",
+    "meaning": "n. 卷心菜",
+    "example": "Let's learn how to use “cabbage”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-091",
+    "word": "onion",
+    "answer": "onion",
+    "phonetic": "/'ʌnjәn/",
+    "meaning": "n. 洋葱",
+    "example": "Let's learn how to use “onion”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-092",
+    "word": "carrot",
+    "answer": "carrot",
+    "phonetic": "/'kærәt/",
+    "meaning": "n. 胡萝卜",
+    "example": "Let's learn how to use “carrot”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-093",
+    "word": "watermelon",
+    "answer": "watermelon",
+    "phonetic": "/'wɒtә.melәn/",
+    "meaning": "n. 西瓜",
+    "example": "Let's learn how to use “watermelon”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-094",
+    "word": "cucumber",
+    "answer": "cucumber",
+    "phonetic": "/'kju:kәmbә/",
+    "meaning": "n. 黄瓜",
+    "example": "Let's learn how to use “cucumber”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-095",
+    "word": "strawberry",
+    "answer": "strawberry",
+    "phonetic": "/'strɒ:bәri/",
+    "meaning": "n. 草莓",
+    "example": "Let's learn how to use “strawberry”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-096",
+    "word": "pear",
+    "answer": "pear",
+    "phonetic": "/pєә/",
+    "meaning": "n. 梨",
+    "example": "Let's learn how to use “pear”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-097",
+    "word": "yogurt",
+    "answer": "yogurt",
+    "phonetic": "/'jɔ^әt/",
+    "meaning": "n. 酸奶；一份酸奶",
+    "example": "Let's learn how to use “yogurt”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-098",
+    "word": "cheese",
+    "answer": "cheese",
+    "phonetic": "/tʃi:z/",
+    "meaning": "n. 干酪；奶酪",
+    "example": "Let's learn how to use “cheese”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-099",
+    "word": "corn",
+    "answer": "corn",
+    "phonetic": "/kɒ:n/",
+    "meaning": "n. （小麦等）谷物；玉米",
+    "example": "Let's learn how to use “corn”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-100",
+    "word": "butter",
+    "answer": "butter",
+    "phonetic": "/'bʌtә/",
+    "meaning": "n. 黄油",
+    "example": "Let's learn how to use “butter”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-101",
+    "word": "oil",
+    "answer": "oil",
+    "phonetic": "/ɒil/",
+    "meaning": "n. 食用油",
+    "example": "Let's learn how to use “oil”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-102",
+    "word": "salt",
+    "answer": "salt",
+    "phonetic": "/sɒ:lt/",
+    "meaning": "n. 盐；食盐",
+    "example": "Let's learn how to use “salt”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-103",
+    "word": "bean",
+    "answer": "bean",
+    "phonetic": "/bi:n/",
+    "meaning": "n. 豆；豆科植物",
+    "example": "Let's learn how to use “bean”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-104",
+    "word": "product",
+    "answer": "product",
+    "phonetic": "/'prɒdʌkt/",
+    "meaning": "n. 产品；制品",
+    "example": "Let's learn how to use “product”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-105",
+    "word": "grain",
+    "answer": "grain",
+    "phonetic": "/grein/",
+    "meaning": "n. 谷物；谷粒",
+    "example": "Let's learn how to use “grain”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-106",
+    "word": "rainbow",
+    "answer": "rainbow",
+    "phonetic": "/'reinbәu/",
+    "meaning": "n. 虹；彩虹",
+    "example": "Let's learn how to use “rainbow”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-107",
+    "word": "balanced",
+    "answer": "balanced",
+    "phonetic": "/'bælәnst/",
+    "meaning": "adj. 保持（或显示）平衡的",
+    "example": "Let's learn how to use “balanced”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-108",
+    "word": "diet",
+    "answer": "diet",
+    "phonetic": "/'daiәt/",
+    "meaning": "n. 日常饮食；日常食物",
+    "example": "Let's learn how to use “diet”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-109",
+    "word": "each",
+    "answer": "each",
+    "phonetic": "/i:tʃ/",
+    "meaning": "det. & pron. （两个或以上的人或物中）各自；各个；每个",
+    "example": "Let's learn how to use “each”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-110",
+    "word": "plenty",
+    "answer": "plenty",
+    "phonetic": "/'plenti/",
+    "meaning": "pron. 大量",
+    "example": "Let's learn how to use “plenty”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-111",
+    "word": "plenty of",
+    "answer": "plenty of",
+    "phonetic": "",
+    "meaning": "大量；很多的",
+    "example": "Let's learn how to use “plenty of”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-112",
+    "word": "choice",
+    "answer": "choice",
+    "phonetic": "/tʃɒis/",
+    "meaning": "n. 选择；挑选；抉择",
+    "example": "Let's learn how to use “choice”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-113",
+    "word": "list",
+    "answer": "list",
+    "phonetic": "/list/",
+    "meaning": "n. 一览表；清单",
+    "example": "Let's learn how to use “list”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-114",
+    "word": "few",
+    "answer": "few",
+    "phonetic": "/fju:/",
+    "meaning": "det. & adj. 不多；很少",
+    "example": "Let's learn how to use “few”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-115",
+    "word": "a few",
+    "answer": "a few",
+    "phonetic": "",
+    "meaning": "有些；几个（用于可数名词之前）",
+    "example": "Let's learn how to use “a few”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-116",
+    "word": "pleasure",
+    "answer": "pleasure",
+    "phonetic": "/'pleʒә/",
+    "meaning": "n. 高兴；快乐；愉快",
+    "example": "Let's learn how to use “pleasure”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-117",
+    "word": "ingredient",
+    "answer": "ingredient",
+    "phonetic": "/in'gri:diәnt/",
+    "meaning": "n. （尤指烹饪）材料；成分",
+    "example": "Let's learn how to use “ingredient”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-118",
+    "word": "tasty",
+    "answer": "tasty",
+    "phonetic": "/'teisti/",
+    "meaning": "adj. 美味的；可口的",
+    "example": "Let's learn how to use “tasty”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-119",
+    "word": "need",
+    "answer": "need",
+    "phonetic": "/ni:d/",
+    "meaning": "v. 需要",
+    "example": "Let's learn how to use “need”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-120",
+    "word": "fridge",
+    "answer": "fridge",
+    "phonetic": "/fridʒ/",
+    "meaning": "n. 冰箱",
+    "example": "Let's learn how to use “fridge”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-121",
+    "word": "surprise",
+    "answer": "surprise",
+    "phonetic": "/sә'praiz/",
+    "meaning": "n. 意想不到（或突然）的事；v. 使惊奇；使诧异；使感到意外",
+    "example": "Let's learn how to use “surprise”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-122",
+    "word": "blog",
+    "answer": "blog",
+    "phonetic": "",
+    "meaning": "n. 博客；网志",
+    "example": "Let's learn how to use “blog”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-123",
+    "word": "as",
+    "answer": "as",
+    "phonetic": "/æz/",
+    "meaning": "prep. 作为；当作",
+    "example": "Let's learn how to use “as”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-124",
+    "word": "soy sauce",
+    "answer": "soy sauce",
+    "phonetic": "/sɔi/",
+    "meaning": "n. 酱油",
+    "example": "Let's learn how to use “soy sauce”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-125",
+    "word": "into",
+    "answer": "into",
+    "phonetic": "/'intu:/",
+    "meaning": "prep. （表示状态的变化）；进入",
+    "example": "Let's learn how to use “into”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-126",
+    "word": "piece",
+    "answer": "piece",
+    "phonetic": "/pi:s/",
+    "meaning": "n. 碎片；碎块",
+    "example": "Let's learn how to use “piece”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-127",
+    "word": "fry",
+    "answer": "fry",
+    "phonetic": "/frai/",
+    "meaning": "v. 油炒；油煎",
+    "example": "Let's learn how to use “fry”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-128",
+    "word": "finally",
+    "answer": "finally",
+    "phonetic": "/'fainәli/",
+    "meaning": "adv. 最后",
+    "example": "Let's learn how to use “finally”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-129",
+    "word": "boil",
+    "answer": "boil",
+    "phonetic": "/bɒil/",
+    "meaning": "v. 煮沸；烧开",
+    "example": "Let's learn how to use “boil”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-130",
+    "word": "side",
+    "answer": "side",
+    "phonetic": "/said/",
+    "meaning": "n. 一边；侧面",
+    "example": "Let's learn how to use “side”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-131",
+    "word": "side dish",
+    "answer": "side dish",
+    "phonetic": "",
+    "meaning": "（随同主菜一起上的）配菜",
+    "example": "Let's learn how to use “side dish”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-132",
+    "word": "mutton",
+    "answer": "mutton",
+    "phonetic": "/'mʌtn/",
+    "meaning": "n. 羊肉",
+    "example": "Let's learn how to use “mutton”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-133",
+    "word": "recipe",
+    "answer": "recipe",
+    "phonetic": "/'resipi/",
+    "meaning": "n. 食谱；烹饪法",
+    "example": "Let's learn how to use “recipe”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-134",
+    "word": "beat",
+    "answer": "beat",
+    "phonetic": "/bi:t/",
+    "meaning": "v. （用叉等）快速搅拌；打",
+    "example": "Let's learn how to use “beat”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-135",
+    "word": "chopsticks",
+    "answer": "chopsticks",
+    "phonetic": "/'tʃɒpstiks/",
+    "meaning": "n. 筷子",
+    "example": "Let's learn how to use “chopsticks”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-136",
+    "word": "bowl",
+    "answer": "bowl",
+    "phonetic": "/bәul/",
+    "meaning": "n. 碗",
+    "example": "Let's learn how to use “bowl”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit3-137",
+    "word": "menu",
+    "answer": "menu",
+    "phonetic": "/'menju:/",
+    "meaning": "n. 菜单",
+    "example": "Let's learn how to use “menu”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 3",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-138",
+    "word": "date",
+    "answer": "date",
+    "phonetic": "/deit/",
+    "meaning": "n. 日期；日子",
+    "example": "Let's learn how to use “date”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-139",
+    "word": "ground",
+    "answer": "ground",
+    "phonetic": "/graund/",
+    "meaning": "n. （特定用途的）场地；地面",
+    "example": "Let's learn how to use “ground”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-140",
+    "word": "sports ground",
+    "answer": "sports ground",
+    "phonetic": "",
+    "meaning": "运动场；操场",
+    "example": "Let's learn how to use “sports ground”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-141",
+    "word": "gym",
+    "answer": "gym",
+    "phonetic": "/dʒim/",
+    "meaning": "n. 健身房；体育馆",
+    "example": "Let's learn how to use “gym”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-142",
+    "word": "team",
+    "answer": "team",
+    "phonetic": "/ti:m/",
+    "meaning": "n. （游戏或运动的）队",
+    "example": "Let's learn how to use “team”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-143",
+    "word": "high",
+    "answer": "high",
+    "phonetic": "/hai/",
+    "meaning": "adj. 高的",
+    "example": "Let's learn how to use “high”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-144",
+    "word": "rope",
+    "answer": "rope",
+    "phonetic": "/rәup/",
+    "meaning": "n. 绳",
+    "example": "Let's learn how to use “rope”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-145",
+    "word": "kick",
+    "answer": "kick",
+    "phonetic": "/kik/",
+    "meaning": "v. 踢",
+    "example": "Let's learn how to use “kick”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-146",
+    "word": "rock",
+    "answer": "rock",
+    "phonetic": "/rɒk/",
+    "meaning": "n. 岩石",
+    "example": "Let's learn how to use “rock”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-147",
+    "word": "climb",
+    "answer": "climb",
+    "phonetic": "/klaim/",
+    "meaning": "v. 攀登；爬",
+    "example": "Let's learn how to use “climb”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-148",
+    "word": "rock climbing",
+    "answer": "rock climbing",
+    "phonetic": "",
+    "meaning": "攀岩",
+    "example": "Let's learn how to use “rock climbing”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-149",
+    "word": "kung fu",
+    "answer": "kung fu",
+    "phonetic": "/kjŋ'fu:/",
+    "meaning": "n. 功夫（中国拳术）",
+    "example": "Let's learn how to use “kung fu”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-150",
+    "word": "active",
+    "answer": "active",
+    "phonetic": "/'æktiv/",
+    "meaning": "adj. 活跃的；充满活力的；积极的",
+    "example": "Let's learn how to use “active”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-151",
+    "word": "part",
+    "answer": "part",
+    "phonetic": "/pɑ:t/",
+    "meaning": "n. 部分",
+    "example": "Let's learn how to use “part”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-152",
+    "word": "take part in",
+    "answer": "take part in",
+    "phonetic": "",
+    "meaning": "参加",
+    "example": "Let's learn how to use “take part in”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-153",
+    "word": "baseball",
+    "answer": "baseball",
+    "phonetic": "/'beisbɒ:l/",
+    "meaning": "n. 棒球运动",
+    "example": "Let's learn how to use “baseball”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-154",
+    "word": "volleyball",
+    "answer": "volleyball",
+    "phonetic": "/'vɒlibɒ:l/",
+    "meaning": "n. 排球；排球运动",
+    "example": "Let's learn how to use “volleyball”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-155",
+    "word": "badminton",
+    "answer": "badminton",
+    "phonetic": "/'bædmintәn/",
+    "meaning": "n. 羽毛球运动",
+    "example": "Let's learn how to use “badminton”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-156",
+    "word": "tennis",
+    "answer": "tennis",
+    "phonetic": "/'tenis/",
+    "meaning": "n. 网球",
+    "example": "Let's learn how to use “tennis”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-157",
+    "word": "pull",
+    "answer": "pull",
+    "phonetic": "/pul/",
+    "meaning": "v. 拉；拔出",
+    "example": "Let's learn how to use “pull”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-158",
+    "word": "jog",
+    "answer": "jog",
+    "phonetic": "/dʒɒg/",
+    "meaning": "v. 慢跑",
+    "example": "Let's learn how to use “jog”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-159",
+    "word": "safety",
+    "answer": "safety",
+    "phonetic": "/'seifti/",
+    "meaning": "n. 安全；平安",
+    "example": "Let's learn how to use “safety”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-160",
+    "word": "ankle",
+    "answer": "ankle",
+    "phonetic": "/'æŋkl/",
+    "meaning": "n. 踝；踝关节",
+    "example": "Let's learn how to use “ankle”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-161",
+    "word": "match",
+    "answer": "match",
+    "phonetic": "/mætʃ/",
+    "meaning": "n. 比赛",
+    "example": "Let's learn how to use “match”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-162",
+    "word": "gear",
+    "answer": "gear",
+    "phonetic": "/giә/",
+    "meaning": "n. （某种活动的）设备；用具；衣服",
+    "example": "Let's learn how to use “gear”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-163",
+    "word": "example",
+    "answer": "example",
+    "phonetic": "/ig'zæmpl/",
+    "meaning": "n. 例子；实例",
+    "example": "Let's learn how to use “example”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-164",
+    "word": "for example",
+    "answer": "for example",
+    "phonetic": "",
+    "meaning": "例如",
+    "example": "Let's learn how to use “for example”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-165",
+    "word": "warm up",
+    "answer": "warm up",
+    "phonetic": "",
+    "meaning": "做适应性练习；做准备活动；热身",
+    "example": "Let's learn how to use “warm up”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-166",
+    "word": "watch out",
+    "answer": "watch out",
+    "phonetic": "",
+    "meaning": "小心；留神；注意",
+    "example": "Let's learn how to use “watch out”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-167",
+    "word": "matter",
+    "answer": "matter",
+    "phonetic": "/'mætә/",
+    "meaning": "n. 问题；事情",
+    "example": "Let's learn how to use “matter”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-168",
+    "word": "What's the matter?",
+    "answer": "whats the matter",
+    "phonetic": "",
+    "meaning": "怎么了？",
+    "example": "Let's learn how to use “What's the matter?”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-169",
+    "word": "happen",
+    "answer": "happen",
+    "phonetic": "/'hæpәn/",
+    "meaning": "v. 发生",
+    "example": "Let's learn how to use “happen”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-170",
+    "word": "just",
+    "answer": "just",
+    "phonetic": "/dʒʌst/",
+    "meaning": "adv. 仅仅是；只是",
+    "example": "Let's learn how to use “just”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-171",
+    "word": "fall",
+    "answer": "fall",
+    "phonetic": "/fɒ:l/",
+    "meaning": "v. 突然倒下；跌倒",
+    "example": "Let's learn how to use “fall”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-172",
+    "word": "guess",
+    "answer": "guess",
+    "phonetic": "/ges/",
+    "meaning": "v. 猜测；估计",
+    "example": "Let's learn how to use “guess”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-173",
+    "word": "knee",
+    "answer": "knee",
+    "phonetic": "/ni:/",
+    "meaning": "n. 膝盖",
+    "example": "Let's learn how to use “knee”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-174",
+    "word": "How come?",
+    "answer": "how come",
+    "phonetic": "",
+    "meaning": "怎么回事？怎么发生的？",
+    "example": "Let's learn how to use “How come?”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-175",
+    "word": "seem",
+    "answer": "seem",
+    "phonetic": "/si:m/",
+    "meaning": "v. 好像；似乎；看来",
+    "example": "Let's learn how to use “seem”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-176",
+    "word": "problem",
+    "answer": "problem",
+    "phonetic": "/'prɒblәm/",
+    "meaning": "n. 棘手的问题；难题；困难",
+    "example": "Let's learn how to use “problem”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-177",
+    "word": "score",
+    "answer": "score",
+    "phonetic": "/skɒ:/",
+    "meaning": "v. 得（分）；进（球）",
+    "example": "Let's learn how to use “score”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-178",
+    "word": "goal",
+    "answer": "goal",
+    "phonetic": "/gәul/",
+    "meaning": "n. 进球得的分；球门；目标",
+    "example": "Let's learn how to use “goal”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-179",
+    "word": "goalkeeper",
+    "answer": "goalkeeper",
+    "phonetic": "/'gәulki:pә/",
+    "meaning": "n. 守门员",
+    "example": "Let's learn how to use “goalkeeper”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-180",
+    "word": "hold",
+    "answer": "hold",
+    "phonetic": "/hәuld/",
+    "meaning": "v. 使……保持在某位置；拿着；抓住",
+    "example": "Let's learn how to use “hold”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-181",
+    "word": "throw",
+    "answer": "throw",
+    "phonetic": "/θrәu/",
+    "meaning": "v. 投；抛；掷",
+    "example": "Let's learn how to use “throw”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-182",
+    "word": "point",
+    "answer": "point",
+    "phonetic": "/pɒint/",
+    "meaning": "n. 得分；点",
+    "example": "Let's learn how to use “point”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-183",
+    "word": "control",
+    "answer": "control",
+    "phonetic": "/kәn'trәul/",
+    "meaning": "v. & n. 控制；管理",
+    "example": "Let's learn how to use “control”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-184",
+    "word": "mind",
+    "answer": "mind",
+    "phonetic": "/maind/",
+    "meaning": "n. 头脑；心智；v. 当心；注意",
+    "example": "Let's learn how to use “mind”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-185",
+    "word": "powerful",
+    "answer": "powerful",
+    "phonetic": "/'pauәful/",
+    "meaning": "adj. 强有力的",
+    "example": "Let's learn how to use “powerful”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-186",
+    "word": "style",
+    "answer": "style",
+    "phonetic": "/stail/",
+    "meaning": "n. 风格；样式",
+    "example": "Let's learn how to use “style”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-187",
+    "word": "moment",
+    "answer": "moment",
+    "phonetic": "/'mәumәnt/",
+    "meaning": "n. 片刻；瞬间",
+    "example": "Let's learn how to use “moment”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-188",
+    "word": "report",
+    "answer": "report",
+    "phonetic": "/ri'pɒ:t/",
+    "meaning": "v. & n. 汇报；报告；报道",
+    "example": "Let's learn how to use “report”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-189",
+    "word": "newspaper",
+    "answer": "newspaper",
+    "phonetic": "/'nju:z.peipә/",
+    "meaning": "n. 报纸",
+    "example": "Let's learn how to use “newspaper”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-190",
+    "word": "court",
+    "answer": "court",
+    "phonetic": "/kɒ:t/",
+    "meaning": "n. 球场",
+    "example": "Let's learn how to use “court”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-191",
+    "word": "against",
+    "answer": "against",
+    "phonetic": "/ә'geinst/",
+    "meaning": "prep. 与……对阵；与……相反；反对",
+    "example": "Let's learn how to use “against”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-192",
+    "word": "shoot",
+    "answer": "shoot",
+    "phonetic": "/ʃu:t/",
+    "meaning": "v. 射门；投篮",
+    "example": "Let's learn how to use “shoot”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-193",
+    "word": "basket",
+    "answer": "basket",
+    "phonetic": "/'bɑ:skit/",
+    "meaning": "n. （篮球运动的）篮；筐",
+    "example": "Let's learn how to use “basket”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-194",
+    "word": "tie",
+    "answer": "tie",
+    "phonetic": "/tai/",
+    "meaning": "v. （比赛或竞争中）得分相同",
+    "example": "Let's learn how to use “tie”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit4-195",
+    "word": "track",
+    "answer": "track",
+    "phonetic": "/træk/",
+    "meaning": "n. （赛跑、赛车等的）跑道",
+    "example": "Let's learn how to use “track”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 4",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-196",
+    "word": "amazing",
+    "answer": "amazing",
+    "phonetic": "/ә'meiziŋ/",
+    "meaning": "adj. 令人大为惊奇的；令人惊喜或惊叹的",
+    "example": "Let's learn how to use “amazing”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-197",
+    "word": "website",
+    "answer": "website",
+    "phonetic": "",
+    "meaning": "n. 网站",
+    "example": "Let's learn how to use “website”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-198",
+    "word": "feed",
+    "answer": "feed",
+    "phonetic": "/fi:d/",
+    "meaning": "v. 给（人或动物）食物；喂养",
+    "example": "Let's learn how to use “feed”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-199",
+    "word": "herd",
+    "answer": "herd",
+    "phonetic": "/hә:d/",
+    "meaning": "v. 牧放（牲畜、兽群）",
+    "example": "Let's learn how to use “herd”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-200",
+    "word": "goat",
+    "answer": "goat",
+    "phonetic": "/gәut/",
+    "meaning": "n. 山羊",
+    "example": "Let's learn how to use “goat”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-201",
+    "word": "remember",
+    "answer": "remember",
+    "phonetic": "/ri'membә/",
+    "meaning": "v. 记得；记起",
+    "example": "Let's learn how to use “remember”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-202",
+    "word": "collect",
+    "answer": "collect",
+    "phonetic": "/kә'lekt/",
+    "meaning": "v. 收集；采集",
+    "example": "Let's learn how to use “collect”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-203",
+    "word": "recognise",
+    "answer": "recognise",
+    "phonetic": "/'rekә^naiz/",
+    "meaning": "v. 识别；认出",
+    "example": "Let's learn how to use “recognise”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-204",
+    "word": "care",
+    "answer": "care",
+    "phonetic": "/kєә/",
+    "meaning": "n. 照顾；照看",
+    "example": "Let's learn how to use “care”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-205",
+    "word": "take care of",
+    "answer": "take care of",
+    "phonetic": "",
+    "meaning": "照顾；照料",
+    "example": "Let's learn how to use “take care of”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-206",
+    "word": "prefer",
+    "answer": "prefer",
+    "phonetic": "/pri'fә:/",
+    "meaning": "v. 较喜欢；喜欢……多于……",
+    "example": "Let's learn how to use “prefer”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-207",
+    "word": "get along with",
+    "answer": "get along with",
+    "phonetic": "",
+    "meaning": "和睦相处；关系良好",
+    "example": "Let's learn how to use “get along with”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-208",
+    "word": "sign",
+    "answer": "sign",
+    "phonetic": "/sain/",
+    "meaning": "n. 标牌；指示牌",
+    "example": "Let's learn how to use “sign”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-209",
+    "word": "bite",
+    "answer": "bite",
+    "phonetic": "/bait/",
+    "meaning": "v. 咬；n. 咬；咬下的一口",
+    "example": "Let's learn how to use “bite”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-210",
+    "word": "warning",
+    "answer": "warning",
+    "phonetic": "/'wɒ:niŋ/",
+    "meaning": "n. 警告；警示",
+    "example": "Let's learn how to use “warning”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-211",
+    "word": "peck",
+    "answer": "peck",
+    "phonetic": "/pek/",
+    "meaning": "v. 啄",
+    "example": "Let's learn how to use “peck”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-212",
+    "word": "sweet",
+    "answer": "sweet",
+    "phonetic": "/swi:t/",
+    "meaning": "adj. 含糖的；甜的；n. 糖果",
+    "example": "Let's learn how to use “sweet”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-213",
+    "word": "calf",
+    "answer": "calf",
+    "phonetic": "/kɑ:f/",
+    "meaning": "n. 小牛；牛犊",
+    "example": "Let's learn how to use “calf”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-214",
+    "word": "loud",
+    "answer": "loud",
+    "phonetic": "/laud/",
+    "meaning": "adj. 大声的；喧闹的",
+    "example": "Let's learn how to use “loud”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-215",
+    "word": "noise",
+    "answer": "noise",
+    "phonetic": "/nɒiz/",
+    "meaning": "n. 噪音；响声",
+    "example": "Let's learn how to use “noise”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-216",
+    "word": "meaning",
+    "answer": "meaning",
+    "phonetic": "/'mi:niŋ/",
+    "meaning": "n. 意义；意思",
+    "example": "Let's learn how to use “meaning”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-217",
+    "word": "shout",
+    "answer": "shout",
+    "phonetic": "/ʃaut/",
+    "meaning": "v. 大声说；叫",
+    "example": "Let's learn how to use “shout”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-218",
+    "word": "jacket",
+    "answer": "jacket",
+    "phonetic": "/'dʒækit/",
+    "meaning": "n. 夹克衫；短上衣",
+    "example": "Let's learn how to use “jacket”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-219",
+    "word": "if",
+    "answer": "if",
+    "phonetic": "/if/",
+    "meaning": "conj. 如果；假若",
+    "example": "Let's learn how to use “if”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-220",
+    "word": "snack",
+    "answer": "snack",
+    "phonetic": "/snæk/",
+    "meaning": "n. 点心；小吃",
+    "example": "Let's learn how to use “snack”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-221",
+    "word": "could",
+    "answer": "could",
+    "phonetic": "/kud/",
+    "meaning": "modal v. 能；可以",
+    "example": "Let's learn how to use “could”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-222",
+    "word": "hen",
+    "answer": "hen",
+    "phonetic": "/hen/",
+    "meaning": "n. 母鸡",
+    "example": "Let's learn how to use “hen”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-223",
+    "word": "diary",
+    "answer": "diary",
+    "phonetic": "/'daiәri/",
+    "meaning": "n. 日记；日记簿",
+    "example": "Let's learn how to use “diary”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-224",
+    "word": "cookie",
+    "answer": "cookie",
+    "phonetic": "/'kuki/",
+    "meaning": "n. 曲奇饼",
+    "example": "Let's learn how to use “cookie”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-225",
+    "word": "direct",
+    "answer": "direct",
+    "phonetic": "/di'rekt/",
+    "meaning": "v. 指路；领路；指导",
+    "example": "Let's learn how to use “direct”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-226",
+    "word": "yard",
+    "answer": "yard",
+    "phonetic": "/jɑ:d/",
+    "meaning": "n. （某种用途的）区域；场地",
+    "example": "Let's learn how to use “yard”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-227",
+    "word": "glad",
+    "answer": "glad",
+    "phonetic": "/glæd/",
+    "meaning": "adj. 高兴；愉快",
+    "example": "Let's learn how to use “glad”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-228",
+    "word": "believe",
+    "answer": "believe",
+    "phonetic": "/bi'li:v/",
+    "meaning": "v. 相信",
+    "example": "Let's learn how to use “believe”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-229",
+    "word": "unforgettable",
+    "answer": "unforgettable",
+    "phonetic": "/.ʌnfә'getәbl/",
+    "meaning": "adj. 令人难忘的",
+    "example": "Let's learn how to use “unforgettable”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-230",
+    "word": "smooth",
+    "answer": "smooth",
+    "phonetic": "/smu:ð/",
+    "meaning": "adj. 光滑的；平坦的；平整的",
+    "example": "Let's learn how to use “smooth”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-231",
+    "word": "neck",
+    "answer": "neck",
+    "phonetic": "/nek/",
+    "meaning": "n. 颈；脖子",
+    "example": "Let's learn how to use “neck”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-232",
+    "word": "friendly",
+    "answer": "friendly",
+    "phonetic": "/'frendli/",
+    "meaning": "adj. 友爱的；友好的",
+    "example": "Let's learn how to use “friendly”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit5-233",
+    "word": "ride",
+    "answer": "ride",
+    "phonetic": "/raid/",
+    "meaning": "v. 骑马；驾驶；n. （乘车或骑车的）短途旅程",
+    "example": "Let's learn how to use “ride”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 5",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-234",
+    "word": "around",
+    "answer": "around",
+    "phonetic": "/ә'raund/",
+    "meaning": "prep. 在……周围；adv. 在周围；大约",
+    "example": "Let's learn how to use “around”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-235",
+    "word": "vacation",
+    "answer": "vacation",
+    "phonetic": "/vei'keiʃәn/",
+    "meaning": "n. 假期",
+    "example": "Let's learn how to use “vacation”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-236",
+    "word": "trip",
+    "answer": "trip",
+    "phonetic": "/trip/",
+    "meaning": "n. （尤指短程往返的）旅行；旅游；出行",
+    "example": "Let's learn how to use “trip”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-237",
+    "word": "popular",
+    "answer": "popular",
+    "phonetic": "/'pɒpjulә/",
+    "meaning": "adj. 大众喜爱的；广受欢迎的；当红的",
+    "example": "Let's learn how to use “popular”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-238",
+    "word": "tour",
+    "answer": "tour",
+    "phonetic": "/tuә/",
+    "meaning": "n. 旅行；旅游",
+    "example": "Let's learn how to use “tour”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-239",
+    "word": "tip",
+    "answer": "tip",
+    "phonetic": "/tip/",
+    "meaning": "n. 指点；实用的提示",
+    "example": "Let's learn how to use “tip”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-240",
+    "word": "footprint",
+    "answer": "footprint",
+    "phonetic": "/'futprint/",
+    "meaning": "n. 脚印；足迹",
+    "example": "Let's learn how to use “footprint”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-241",
+    "word": "hike",
+    "answer": "hike",
+    "phonetic": "/haik/",
+    "meaning": "v. 徒步旅行",
+    "example": "Let's learn how to use “hike”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-242",
+    "word": "nature",
+    "answer": "nature",
+    "phonetic": "/'neitʃә/",
+    "meaning": "n. 大自然",
+    "example": "Let's learn how to use “nature”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-243",
+    "word": "enjoy",
+    "answer": "enjoy",
+    "phonetic": "/in'dʒɒi/",
+    "meaning": "v. 享受；欣赏",
+    "example": "Let's learn how to use “enjoy”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-244",
+    "word": "local",
+    "answer": "local",
+    "phonetic": "/'lәukәl/",
+    "meaning": "adj. 当地的",
+    "example": "Let's learn how to use “local”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-245",
+    "word": "lazy",
+    "answer": "lazy",
+    "phonetic": "/'leizi/",
+    "meaning": "adj. 懒散的；悠闲的",
+    "example": "Let's learn how to use “lazy”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-246",
+    "word": "roof",
+    "answer": "roof",
+    "phonetic": "/ru:f/",
+    "meaning": "n. 屋顶；顶部",
+    "example": "Let's learn how to use “roof”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-247",
+    "word": "ski",
+    "answer": "ski",
+    "phonetic": "/ski:/",
+    "meaning": "v. 滑雪",
+    "example": "Let's learn how to use “ski”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-248",
+    "word": "reason",
+    "answer": "reason",
+    "phonetic": "/'ri:zn/",
+    "meaning": "n. 原因；理由",
+    "example": "Let's learn how to use “reason”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-249",
+    "word": "drive",
+    "answer": "drive",
+    "phonetic": "/draiv/",
+    "meaning": "v. 驾驶；开车",
+    "example": "Let's learn how to use “drive”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-250",
+    "word": "shall",
+    "answer": "shall",
+    "phonetic": "/ʃæl/",
+    "meaning": "modal v. 将要；将会",
+    "example": "Let's learn how to use “shall”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-251",
+    "word": "afraid",
+    "answer": "afraid",
+    "phonetic": "/ә'freid/",
+    "meaning": "adj. 害怕；畏惧",
+    "example": "Let's learn how to use “afraid”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-252",
+    "word": "I'm afraid",
+    "answer": "im afraid",
+    "phonetic": "",
+    "meaning": "我怕；恐怕；很遗憾；对不起",
+    "example": "Let's learn how to use “I'm afraid”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-253",
+    "word": "expensive",
+    "answer": "expensive",
+    "phonetic": "/ik'spensiv/",
+    "meaning": "adj. 昂贵的；价格高的",
+    "example": "Let's learn how to use “expensive”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-254",
+    "word": "price",
+    "answer": "price",
+    "phonetic": "/prais/",
+    "meaning": "n. 价格；价钱",
+    "example": "Let's learn how to use “price”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-255",
+    "word": "ticket",
+    "answer": "ticket",
+    "phonetic": "/'tikit/",
+    "meaning": "n. 票；入场券",
+    "example": "Let's learn how to use “ticket”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-256",
+    "word": "better",
+    "answer": "better",
+    "phonetic": "/'betә/",
+    "meaning": "adj. 较好的；更好的；adv. 更好",
+    "example": "Let's learn how to use “better”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-257",
+    "word": "convenient",
+    "answer": "convenient",
+    "phonetic": "/kәn'vi:njәnt/",
+    "meaning": "adj. 方便的；便利的；省事的",
+    "example": "Let's learn how to use “convenient”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-258",
+    "word": "speed",
+    "answer": "speed",
+    "phonetic": "/spi:d/",
+    "meaning": "n. 速度",
+    "example": "Let's learn how to use “speed”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-259",
+    "word": "high-speed",
+    "answer": "high-speed",
+    "phonetic": "",
+    "meaning": "adj. 高速的",
+    "example": "Let's learn how to use “high-speed”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-260",
+    "word": "comfortable",
+    "answer": "comfortable",
+    "phonetic": "/'kʌmfәtәbl/",
+    "meaning": "adj. 使人舒服的；舒适的",
+    "example": "Let's learn how to use “comfortable”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-261",
+    "word": "view",
+    "answer": "view",
+    "phonetic": "/vju:/",
+    "meaning": "n. 景色；（尤指）乡间美景；视野；（个人的）看法",
+    "example": "Let's learn how to use “view”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-262",
+    "word": "carry",
+    "answer": "carry",
+    "phonetic": "/'kæri/",
+    "meaning": "v. 拿；提；运送；输送",
+    "example": "Let's learn how to use “carry”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-263",
+    "word": "plan",
+    "answer": "plan",
+    "phonetic": "/plæn/",
+    "meaning": "n. & v. 计划；打算",
+    "example": "Let's learn how to use “plan”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-264",
+    "word": "own",
+    "answer": "own",
+    "phonetic": "/әun/",
+    "meaning": "adj. & pron. 自己的；本人的",
+    "example": "Let's learn how to use “own”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-265",
+    "word": "historical",
+    "answer": "historical",
+    "phonetic": "/hi'stɒrikәl/",
+    "meaning": "adj. （有关）历史的",
+    "example": "Let's learn how to use “historical”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-266",
+    "word": "such",
+    "answer": "such",
+    "phonetic": "/sʌtʃ/",
+    "meaning": "det. & pron. 这样的；那样的；类似的",
+    "example": "Let's learn how to use “such”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-267",
+    "word": "such as",
+    "answer": "such as",
+    "phonetic": "",
+    "meaning": "例如；诸如",
+    "example": "Let's learn how to use “such as”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-268",
+    "word": "palace",
+    "answer": "palace",
+    "phonetic": "/'pælis/",
+    "meaning": "n. 宫殿",
+    "example": "Let's learn how to use “palace”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-269",
+    "word": "museum",
+    "answer": "museum",
+    "phonetic": "/mju:'ziәm/",
+    "meaning": "n. 博物馆",
+    "example": "Let's learn how to use “museum”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-270",
+    "word": "national",
+    "answer": "national",
+    "phonetic": "/'næʃәnәl/",
+    "meaning": "adj. 国家的；全国的",
+    "example": "Let's learn how to use “national”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-271",
+    "word": "forest",
+    "answer": "forest",
+    "phonetic": "/'fɒrist/",
+    "meaning": "n. 森林；林区",
+    "example": "Let's learn how to use “forest”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-272",
+    "word": "mountain",
+    "answer": "mountain",
+    "phonetic": "/'mauntin/",
+    "meaning": "n. 山；高山",
+    "example": "Let's learn how to use “mountain”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-273",
+    "word": "postcard",
+    "answer": "postcard",
+    "phonetic": "/'pәustkɑ:d/",
+    "meaning": "n. 明信片",
+    "example": "Let's learn how to use “postcard”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-274",
+    "word": "volunteer",
+    "answer": "volunteer",
+    "phonetic": "/.vɒlәn'tiә/",
+    "meaning": "n. 志愿者；义务工作者",
+    "example": "Let's learn how to use “volunteer”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-275",
+    "word": "opera",
+    "answer": "opera",
+    "phonetic": "/'ɒpәrә/",
+    "meaning": "n. 歌剧",
+    "example": "Let's learn how to use “opera”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-276",
+    "word": "myself",
+    "answer": "myself",
+    "phonetic": "/mai'self/",
+    "meaning": "pron. 我自己",
+    "example": "Let's learn how to use “myself”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
+  },
+  {
+    "id": "grade6-unit6-277",
+    "word": "enjoy oneself",
+    "answer": "enjoy oneself",
+    "phonetic": "",
+    "meaning": "过得快乐；玩得高兴",
+    "example": "Let's learn how to use “enjoy oneself”.",
+    "libraries": [
+      "grade6"
+    ],
+    "unitLabel": "六年级上册 · Unit 6",
+    "sourceType": "上海英语新教材六年级上 Words and expressions in each unit Unit 1-6",
+    "reviewStatus": "已按图片词表录入；建议结合学生实物教材继续复核页码和释义"
   }
 ];
 
 export const vocabularyMetadata = {
   "primaryCount": 498,
-  "grade6Count": 44,
-  "grade6SourceRows": 48,
-  "generatedAt": "2026-06-30",
-  "grade6Scope": "短期试运行；只纳入公开词表中可核实的 Unit 1"
+  "grade6Count": 277,
+  "grade6SourceRows": 277,
+  "generatedAt": "2026-07-09",
+  "grade6Scope": "根据 data/sources/六年级上 Unit 1-6 目录图片整理；覆盖六年级上册 Unit 1-6"
 };

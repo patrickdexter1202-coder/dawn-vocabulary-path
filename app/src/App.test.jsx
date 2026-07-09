@@ -75,7 +75,7 @@ describe("晨光词径每日学习会话", () => {
     await user.selectOptions(selector, "grade6");
     await user.click(screen.getByRole("button", { name: "开始本次学习" }));
 
-    expect(screen.getByText("六年级上册 · Unit 1")).toBeInTheDocument();
+    expect(screen.getByText(/六年级上册 · Unit [1-6]/)).toBeInTheDocument();
     expect(screen.getByText("本次 0/30")).toBeInTheDocument();
   });
 

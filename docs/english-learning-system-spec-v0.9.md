@@ -11,7 +11,7 @@
 
 ## 2. 词库
 
-- 内置只读词库：衔接混合 542 条、小学基准 498 条、六年级新词 44 条。
+- 内置只读词库：衔接混合 774 条、小学基准 498 条、六年级上 Unit 1-6 277 条。
 - 自定义词库：支持 CSV、JSON、XLSX，保存在 IndexedDB `dawn-vocabulary-local-v1`。
 - 导入必填字段为 `word`、`meaning`；可选字段与限制以 `vocabulary-import-format-v1.md` 为准。
 

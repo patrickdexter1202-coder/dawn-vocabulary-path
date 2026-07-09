@@ -38,15 +38,15 @@ import { LocalDataPanel } from "./LocalDataPanel.jsx";
 const PARENT_DELETE_PASSWORD = "99bill";
 
 const LIBRARIES = {
-  bridge: { label: "衔接混合", description: "小学基准 + 六年级新词" },
+  bridge: { label: "衔接混合", description: "小学基准 + 六年级上 Unit 1-6" },
   primary: { label: "小学基准", description: `${vocabularyMetadata.primaryCount} 条课标基准` },
-  grade6: { label: "六年级新词", description: `${vocabularyMetadata.grade6Count} 条可核实词` },
+  grade6: { label: "六年级上 Unit 1-6", description: `${vocabularyMetadata.grade6Count} 条图片词表` },
 };
 
 function normalizeAnswer(value) {
   return String(value ?? "")
     .toLowerCase()
-    .replace(/[.]/g, "")
+    .replace(/[.'?!]/g, "")
     .replace(/\s+/g, " ")
     .trim();
 }
